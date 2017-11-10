@@ -1,0 +1,24 @@
+Zabezpečte particl podle svých vlastních podmínek s open source, peněženkou s více podpisy z BitPay.
+Uživatelé copay mohou držet svoje vklady individuálně nebo sdílet finance bezpečně s dalšími uživateli pomocí peněženky s více podpisy, které zabraňují neautorizovaným platbam požadavkem více souhlasů. Tohle jsou některé způsoby jak může být Copay použitý s ostatními:
+
+Spoření na dovolenou nebo společné obchody s přáteli
+Sledování rodinných útrat a odměn
+Spravovat podnikové, klubové nebo organizační vklady a výdaje
+
+Do této verze Copay pro particl jsme dali dohromady následující funkce, které nekompromitují bezpečnost nebo dostupnost:
+
+Vytváření vícero peněženek a spravování v aplikaci
+Intuitivní více-podpisová bezpečnost pro osobní nebo sdílené peněženky
+Jednoduché návrhy plateb pro sdílené peněženky a skupinové platby
+Hierarchické deterministické (HD) generování adres a záloh peněženek
+Bezpečnost založená na zařízení: všechny soukromé klíče jsou uloženy lokálně, ne v cloudu
+Podpora pro Particl testnet peněženky
+Synchronní přístup napříč všemi hlavními mobilními a desktop platformami
+Podpora platebního protokolu (BIP70-BIP73): jednoduše identifikovatelné platební požadavky a ověřitelně bezpečné particl platby
+Podpora více než 150+ volitelných měn a jednotek demominovaných v BTC nebo bitech
+Emailové notifikace pro platby a transfery
+Nastavitelný názvev peněženky a barev
+9 podporovaných jazyků (EN, CS, FR, DE, IT, ES, JA, PL, RU)
+
+Copay je free a open source software běžící na ne-proproprietálních serverech, bez potřeby spoléhat se na společnost nebo nepřetržitou podporu. Každý může ověřit nebo přispět do Copay zdrojového kódu na GitHubu (https://github.com/bitpay/copay).
+
