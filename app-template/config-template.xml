@@ -20,7 +20,7 @@
     <access origin="https://api.coinbase.com" />
     <access origin="https://coinbase.com" />
     <access origin="https://api.coinmarketcap.com" />
-    <access origin="https://bws.particl.io" />
+    <access origin="https://*.particl.io" />
     <allow-navigation href="gap://ready" />
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <preference name="iosPersistentFileLocation" value="Library" />

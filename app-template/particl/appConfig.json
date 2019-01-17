@@ -22,10 +22,10 @@
   "WindowsStoreIdentityName": "Copay-SecureParticlWallet",
   "WindowsStoreDisplayName": "Copay - Secure Particl Wallet",
   "WindowsApplicationId": "ParticlCopayWallet",
-  "pushSenderId": "1036948132229",
+  "pushSenderId": "232519596896",
   "description": "A Secure Particl Wallet",
-  "version": "5.4.0",
-  "androidVersion": "54000000",
+  "version": "5.4.1",
+  "androidVersion": "54000001",
   "_extraCSS": null,
   "_enabledExtensions": {
     "coinbase": false,
