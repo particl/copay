@@ -1,0 +1,3472 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: www/views/modals/paypro.html:34
+msgid "(Trusted)"
+msgstr "(Ověřeno)"
+
+#: www/views/includes/txp.html:23
+#: www/views/includes/walletHistory.html:64
+msgid "(possible double spend)"
+msgstr "(možná dvojí platba)"
+
+#: www/views/modals/txp-details.html:161
+msgid "* A payment proposal can be deleted if 1) you are the creator, and no other copayer has signed, or 2) 24 hours have passed since the proposal was created."
+msgstr "* Platební návrh může býs smazaán pokud 1) jste jeho tvůrce a žádný další spoluplátce ho nepodepsal, nebo 2) uplynulo 24 hodin od vytvoření návrhu."
+
+#: www/views/tx-details.html:84
+msgid "- {{btx.feeRateStr}} of the transaction"
+msgstr "- {{btx.feeRateStr}} z transakce"
+
+#: www/views/modals/txp-details.html:104
+msgid "- {{tx.feeRateStr}} of the transaction"
+msgstr "- {{tx.feeRateStr}} z transakce"
+
+#: www/views/feedback/rateApp.html:7
+msgid "5-star ratings help us get {{appName}} into more hands, and more users means more resources can be committed to the app!"
+msgstr "5-hvězdičkové hodnocení nám pomůže dostat {{appName}} do více rukou a další uživatelé a další zdroje mohou být přiděleny na tuto aplikaci!"
+
+#: www/views/mercadoLibre.html:18
+#: www/views/mercadoLibre.html:40
+msgid "<b>Only</b> redeemable on Mercado Livre (Brazil)"
+msgstr"<b>Pouze</b> splatné v Mercado Livre (Brazílie)"
+
+#: src/js/controllers/feedback/send.js:27
+#: www/views/feedback/complete.html:21
+msgid "A member of the team will review your feedback as soon as possible."
+msgstr "Člen týmu přezkoumá váš feedback hned jak to bude možné."
+
+#: src/js/controllers/confirm.js:351
+msgid "A total of {{amountAboveMaxSizeStr}} were excluded. The maximum size allowed for a transaction was exceeded."
+msgstr "Celkem z {{amountAboveMaxSizeStr}} bylo vyjmuto. Maximální velikost povolená pro transakci byla překročena."
+
+#: src/js/controllers/confirm.js:345
+msgid "A total of {{amountBelowFeeStr}} were excluded. These funds come from UTXOs smaller than the network fee provided."
+msgstr "Celkem z {{amountBelowFeeStr}} bylo vyjmuto. Tyto vklady přišly z UTXO menším než je poskytnutý síťový poplatek."
+
+#: src/js/controllers/preferencesAbout.js:6
+#: www/views/tab-settings.html:156
+msgid "About"
+msgstr "O programu"
+
+#: src/js/controllers/modals/txpDetails.js:56
+#: src/js/controllers/tx-details.js:62
+msgid "Accepted"
+msgstr "Přijato"
+
+#: www/views/preferencesInformation.html:66
+msgid "Account"
+msgstr "Účet"
+
+#: www/views/join.html:69
+#: www/views/tab-create-personal.html:43
+#: www/views/tab-create-shared.html:72
+#: www/views/tab-import-hardware.html:19
+msgid "Account Number"
+msgstr "Číslo účtu"
+
+#: www/views/preferencesBitpayServices.html:23
+msgid "Accounts"
+msgstr "Účty"
+
+#: www/views/bitpayCard.html:56
+msgid "Activity"
+msgstr "Aktivita"
+
+#: src/js/services/bitpayAccountService.js:83
+msgid "Add Account"
+msgstr "Přidat účet"
+
+#: src/js/services/bitpayAccountService.js:69
+msgid "Add BitPay Account?"
+msgstr "Přidat BitPay účet?"
+
+#: www/views/addressbook.add.html:4
+#: www/views/addressbook.html:22
+msgid "Add Contact"
+msgstr "Přidat kontakt"
+
+#: www/views/bitpayCard.html:28
+msgid "Add Funds"
+msgstr "Přidat vklady"
+
+#: www/views/confirm.html:96
+msgid "Add Memo"
+msgstr "Přidat poznámku"
+
+#: www/views/join.html:84
+#: www/views/tab-create-personal.html:57
+#: www/views/tab-create-shared.html:86
+msgid "Add a password"
+msgstr "Přidat heslo"
+
+#: www/views/includes/accountSelector.html:27
+msgid "Add account"
+msgstr "Přidat účet"
+
+#: www/views/join.html:87
+#: www/views/tab-create-personal.html:60
+#: www/views/tab-create-shared.html:89
+msgid "Add an optional password to secure the recovery phrase"
+msgstr "Přidat volitelné heslo k zabezpečení obnovovací fráze"
+
+#: www/views/includes/incomingDataMenu.html:41
+msgid "Add as a contact"
+msgstr "Přidat kontakt"
+
+#: src/js/controllers/confirm.js:374
+msgid "Add description"
+msgstr "Přidat popis"
+
+#: www/views/topup.html:6
+msgid "Add funds"
+msgstr "Přidat vklad"
+
+#: src/js/services/bitpayAccountService.js:78
+msgid "Add this BitPay account ({{email}})?"
+msgstr "Přidat tento BitPay účet ({{email}})?"
+
+#: www/views/add.html:3
+msgid "Add wallet"
+msgstr "Přidat peněženku"
+
+#: www/views/addressbook.view.html:26
+#: www/views/customAmount.html:28
+#: www/views/modals/paypro.html:24
+msgid "Address"
+msgstr "Adresy"
+
+#: www/views/addressbook.html:6
+#: www/views/tab-settings.html:13
+msgid "Address Book"
+msgstr "Kniha adres"
+
+#: www/views/preferencesInformation.html:35
+msgid "Address Type"
+msgstr "Typ adresy"
+
+#: www/views/addresses.html:64
+msgid "Addresses With Balance"
+msgstr "Adresy se zůstatkem"
+
+#: www/views/tab-settings.html:149
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: www/views/advancedSettings.html:3
+msgid "Advanced Settings"
+msgstr "Pokročilé nastavení"
+
+#: www/views/bitpayCard.html:62
+msgid "All"
+msgstr "Všechny"
+
+#: www/views/allAddresses.html:3
+msgid "All Addresses"
+msgstr "Všechny adresy"
+
+#: www/views/modals/wallet-balance.html:18
+msgid "All of your particl wallet balance may not be available for immediate spending."
+msgstr "Všechny zůstatky vaší particl peněženky nemusí být dostupné pro okamžitou platbu"
+
+#: www/views/tab-receive.html:25
+msgid "All signing devices must be added to this multisig wallet before particl addresses can be created."
+msgstr "Všechna podepsaná zařízení mohou být přidána do této multisig peněženky před tím, než mohou být vytvořeny particl adresy"
+
+#: www/views/tab-scan.html:21
+msgid "Allow Camera Access"
+msgstr "Povolit přístup kamery"
+
+#: www/views/onboarding/notifications.html:7
+msgid "Allow notifications"
+msgstr "Povolit notifikace"
+
+#: www/views/onboarding/disclaimer.html:14
+msgid "Almost done! Let's review."
+msgstr "Téměř hotovo! Pojďme provést kontrolu."
+
+#: www/views/preferencesAltCurrency.html:4
+#: www/views/tab-settings.html:74
+msgid "Alternative Currency"
+msgstr "Alternativní měna"
+
+#: src/js/controllers/buyAmazon.js:97
+msgid "Amazon.com is not available at this moment. Please try back later."
+msgstr "Amazon.com není v tuto chvíli dostupný. Zkuste to prosím znovu později."
+
+#: www/views/amount.html:44
+#: www/views/customAmount.html:34
+#: www/views/includes/output.html:7
+msgid "Amount"
+msgstr "Množství"
+
+#: src/js/services/bwcError.js:110
+msgid "Amount below minimum allowed"
+msgstr "Množství pod minimum povoleno"
+
+#: src/js/controllers/confirm.js:191
+msgid "Amount too big"
+msgstr "Množství je příliž velké"
+
+#: www/views/includes/walletHistory.html:31
+msgid "Amount too low to spend"
+msgstr "Množství je příliž malé pro platbu"
+
+#: src/js/controllers/tab-home.js:147
+msgid "An update to this app is available. For your security, please update to the latest version."
+msgstr "Aktualizace pro tuto aplikaci je dostupná. Pro vaši bezpečnost prosím aktualizujte na poslední verzi."
+
+#: www/views/backupWarning.html:14
+msgid "Anyone with your backup phrase can access or spend your particl."
+msgstr "Kdokoli se zálohovací frází se může dostat a utratit vaše particly"
+
+#: www/views/addresses.html:94
+msgid "Approximate Particl network fee to transfer wallet's balance (with normal priority)"
+msgstr "Přibližný poplatek v Particl síti k převodu zůstatku peněženky (s normální prioritou)"
+
+#: www/views/backupWarning.html:10
+msgid "Are you being watched?"
+msgstr "Nesleduje vás někdo?"
+
+#: src/js/controllers/preferencesExternal.js:15
+msgid "Are you being watched? Anyone with your recovery phrase can access or spend your particl."
+msgstr "Jste sledován? Kdokoli s vaší obnovovací frází se může dostat nebo utratit vaše particly."
+
+#: src/js/controllers/copayers.js:56
+msgid "Are you sure you want to cancel and delete this wallet?"
+msgstr "Jste si jistý, že chcete zrušit a smazat tuto peněženku?"
+
+#: src/js/controllers/addressbookView.js:24
+msgid "Are you sure you want to delete this contact?"
+msgstr "Jste si jistý, že chcete smazat tento kontakt?"
+
+#: src/js/controllers/preferencesDelete.js:25
+msgid "Are you sure you want to delete this wallet?"
+msgstr "Jste si jistý, že chcete zrušit tuto peněženku?"
+
+#: src/js/controllers/modals/txpDetails.js:148
+msgid "Are you sure you want to reject this transaction?"
+msgstr "Jste si jistý, že chcete odmítout tuto transakci?"
+
+#: src/js/controllers/modals/txpDetails.js:165
+msgid "Are you sure you want to remove this transaction?"
+msgstr "Jste si jistý, že chcete odstranit tuto transakci?"
+
+#: src/js/controllers/onboarding/backupRequest.js:23
+msgid "Are you sure you want to skip it?"
+msgstr "Jste si jistý, že ji chcete přeskočit?"
+
+#: www/views/modals/bitpay-card-confirmation.html:4
+msgid "Are you sure you would like to log out of your BitPay Card account?"
+msgstr "Jste si jistý, že se chcete odhlásit z účtu BitPay karty?"
+
+#: src/js/controllers/preferencesBitpayCard.js:7
+#: src/js/controllers/preferencesBitpayServices.js:20
+msgid "Are you sure you would like to remove your BitPay Card ({{lastFourDigits}}) from this device?"
+msgstr "Jste si jistý, že chcete odstranit vaši BitPay kartu ({{lastFourDigits}}) z tohoto zařízení?"
+
+#: www/views/includes/walletInfo.html:5
+msgid "Auditable"
+msgstr "Auditovatelný"
+
+#: www/views/modals/wallet-balance.html:42
+msgid "Available"
+msgstr "Dostupný"
+
+#: www/views/includes/available-balance.html:3
+msgid "Available Balance"
+msgstr "Dostupný zůstatek"
+
+#: www/views/modals/chooseFeeLevel.html:24
+#: www/views/preferencesFee.html:15
+msgid "Average confirmation time"
+msgstr "Průměrný čas potvrzení"
+
+#: www/views/join.html:140
+#: www/views/tab-create-personal.html:111
+#: www/views/tab-create-shared.html:140
+#: www/views/tab-import-phrase.html:48
+msgid "BIP32 path for address derivation"
+msgstr "BIP32 cesta pro odvození adresy"
+
+#: www/views/preferences.html:34
+msgid "Backup"
+msgstr "Záloha"
+
+#: www/views/includes/backupNeededPopup.html:7
+msgid "Backup Needed"
+msgstr "Provést zálohu"
+
+#: src/js/controllers/lockSetup.js:87
+msgid "Backup all livenet wallets before using this function"
+msgstr "Zálohujte všechny livenet peněženky před použitím této funkce"
+
+#: www/views/preferences.html:36
+#: www/views/tab-settings.html:120
+msgid "Backup needed"
+msgstr "Provést zálohu"
+
+#: www/views/includes/backupNeededPopup.html:9
+msgid "Backup now"
+msgstr "Zálohovat nyní"
+
+#: www/views/onboarding/backupRequest.html:11
+#: www/views/tab-export-file.html:89
+msgid "Backup wallet"
+msgstr "Záloha peněženky"
+
+#: src/js/controllers/lockSetup.js:84
+msgid "Backup your wallet before using this function"
+msgstr "Zálohujte vaši peněženku před použitím této funkce"
+
+#: src/js/services/profileService.js:430
+msgid "Bad wallet invitation"
+msgstr "Pozvánka ze špatné peněženky"
+
+#: www/views/preferencesInformation.html:96
+msgid "Balance By Address"
+msgstr "Zůstatek podle adresy"
+
+#: www/views/includes/confirmBackupPopup.html:7
+msgid "Be sure to store your recovery phrase in a secure place. If this app is deleted, your money cannot be recovered without it."
+msgstr "Ujistěte se, že máte uloženou vaši obnovovací frázi na bezpečném místě. Pokud bude tato aplikace smazána, vaše peníze nemohou být obnoveny bez ní."
+
+#: www/views/preferencesBitpayServices.html:9
+msgid "BitPay Visa&reg; Cards"
+msgstr "BitPay Visa&reg; karty"
+
+#: www/views/addressbook.add.html:38
+#: www/views/includes/incomingDataMenu.html:29
+msgid "Particl Address"
+msgstr "Particl adresa"
+
+#: www/views/modals/chooseFeeLevel.html:4
+#: www/views/preferencesFee.html:4
+#: www/views/tab-settings.html:85
+msgid "Particl Network Fee Policy"
+msgstr "Particl politika poplatků sítě"
+
+#: www/views/tab-settings.html:63
+msgid "Particl Unit"
+msgstr "Jednotka Particl"
+
+#: www/views/onboarding/tour.html:31
+msgid "Particl is a currency."
+msgstr "Particl je měna"
+
+#: www/views/onboarding/disclaimer.html:15
+msgid "Particl is different &ndash; it cannot be safely held with a bank or web service."
+msgstr "Particl je jiný &ndash; nemůže být bezpečně držen v bance nebo webovou službou."
+
+#: www/views/onboarding/tour.html:18
+msgid "Particl is secure,<br>digital money."
+msgstr "Particl jsou bezpečné, <br>digitální peníze."
+
+#: www/views/preferencesFee.html:11
+msgid "Particl transactions include a fee collected by miners on the network."
+msgstr "Transakce Particl zahrnuje poplatek vybíraný těžaři na síti."
+
+#: www/views/buyAmazon.html:108
+msgid "Bought {{amountUnitStr}}"
+msgstr "Zakoupeno {{amountUnitStr}}"
+
+#: www/views/modals/txp-details.html:36
+msgid "Broadcast Payment"
+msgstr "Broadcast platby"
+
+#: src/js/controllers/modals/txpDetails.js:58
+#: src/js/controllers/tx-details.js:64
+msgid "Broadcasted"
+msgstr "Broadcast proveden"
+
+#: src/js/services/onGoingProcess.js:11
+msgid "Broadcasting transaction"
+msgstr "Broadcast transakce"
+
+#: www/views/unsupported.html:6
+msgid "Browser unsupported"
+msgstr "Browser není podporován"
+
+#: www/views/buyAmazon.html:5
+#: www/views/buyMercadoLibre.html:6
+msgid "Buy"
+msgstr "Koupit"
+
+#: www/views/includes/buyAndSellCard.html:3
+msgid "Buy &amp; Sell Particl"
+msgstr "Koupit &amp; Prodat Particl"
+
+#: www/views/tab-send.html:35
+msgid "Buy Particl"
+msgstr "Koupit Particl"
+
+#: www/views/mercadoLibre.html:22
+#: www/views/mercadoLibre.html:50
+msgid "Buy a Gift Card"
+msgstr "Koupit Gift Card"
+
+#: src/js/controllers/buyAmazon.js:332
+msgid "Buy from"
+msgstr "Koupit od"
+
+#: src/js/services/onGoingProcess.js:40
+msgid "Buying Particl..."
+msgstr "Kupování Particl..."
+
+#: src/js/services/onGoingProcess.js:12
+msgid "Calculating fee"
+msgstr "Výpočet poplatku"
+
+#: src/js/controllers/buyAmazon.js:311
+#: src/js/controllers/buyMercadoLibre.js:305
+#: src/js/controllers/confirm.js:495
+#: src/js/controllers/topup.js:285
+#: src/js/services/popupService.js:62
+#: src/js/services/popupService.js:73
+#: www/views/addressbook.add.html:10
+#: www/views/feedback/send.html:5
+#: www/views/includes/incomingDataMenu.html:22
+#: www/views/includes/incomingDataMenu.html:54
+#: www/views/includes/incomingDataMenu.html:73
+#: www/views/includes/incomingDataMenu.html:97
+#: www/views/includes/note.html:6
+#: www/views/modals/bitpay-card-confirmation.html:8
+#: www/views/modals/confirmation.html:13
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: www/views/copayers.html:36
+msgid "Cancel invitation"
+msgstr "Zrušit pozvánku"
+
+#: src/js/controllers/onboarding/tour.js:52
+msgid "Cannot Create Wallet"
+msgstr "Zrušit vytvoření peněženky"
+
+#: src/js/services/profileService.js:426
+msgid "Cannot join the same wallet more that once"
+msgstr "Nemohu připojit peněženku více než jednou"
+
+#: www/views/includes/bitpayCardsCard.html:2
+msgid "Cards"
+msgstr "Karty"
+
+#: www/views/modals/paypro.html:30
+msgid "Certified by"
+msgstr "Certifikováno"
+
+#: www/views/preferencesExternal.html:19
+msgid "Check installation and retry."
+msgstr "Zkontroluj instalaci a opakuj."
+
+#: www/views/tab-import-file.html:4
+msgid "Choose a backup file from your computer"
+msgstr "Zvol si soubor se zálohou vašeho počítače"
+
+#: www/views/modals/wallets.html:9
+msgid "Choose your destination wallet"
+msgstr "Vyberte si vaši cílovou peněženku"
+
+#: www/views/modals/wallets.html:10
+msgid "Choose your source wallet"
+msgstr "Zvolte si vaši zdrojovou peněženku"
+
+#: www/views/backup.html:54
+msgid "Clear"
+msgstr "Vyčistit"
+
+#: www/views/preferencesHistory.html:24
+msgid "Clear cache"
+msgstr "Vyčistit cache"
+
+#: src/js/controllers/modals/txpDetails.js:34
+msgid "Click"
+msgstr "Kliknout"
+
+#: www/views/customAmount.html:4
+#: www/views/modals/mercadolibre-card-details.html:3
+#: www/views/modals/paypro.html:4
+#: www/views/modals/pin.html:3
+#: www/views/modals/search.html:3
+#: www/views/modals/wallet-balance.html:3
+#: www/views/modals/wallets.html:5
+msgid "Close"
+msgstr "Zavřít"
+
+#: www/views/preferences.html:22
+msgid "Color"
+msgstr "Barva"
+
+#: www/views/preferencesAbout.html:21
+msgid "Commit hash"
+msgstr "Hash commitu"
+
+#: www/views/preferences.html:48
+msgid "Complete the backup process to use this option"
+msgstr "Dokončete záložní proces pro použití této volby"
+
+#: www/views/bitpayCard.html:93
+msgid "Completed"
+msgstr "Dokončeno"
+
+#: src/js/controllers/buyAmazon.js:309
+#: src/js/controllers/buyMercadoLibre.js:303
+#: src/js/controllers/confirm.js:494
+#: src/js/controllers/copayers.js:55
+#: src/js/controllers/topup.js:283
+#: www/views/backup.html:53
+#: www/views/backup.html:72
+#: www/views/confirm.html:4
+#: www/views/onboarding/collectEmail.html:32
+msgid "Confirm"
+msgstr "Potvrdit"
+
+#: www/views/modals/terms.html:26
+#: www/views/onboarding/disclaimer.html:44
+msgid "Confirm &amp; Finish"
+msgstr "Potvrdit &amp; Dokončit"
+
+#: www/views/buyAmazon.html:90
+#: www/views/buyMercadoLibre.html:77
+msgid "Confirm purchase"
+msgstr "Potvrdit obchod"
+
+#: www/views/modals/pin.html:10
+msgid "Confirm your PIN"
+msgstr "Potvrďte váš PIN"
+
+#: src/js/services/walletService.js:1034
+msgid "Confirm your new spending password"
+msgstr "Potvrďte váše nové heslo pro placení"
+
+#: www/views/tx-details.html:98
+msgid "Confirmations"
+msgstr "Potvrzení"
+
+#: www/views/bitpayCard.html:68
+#: www/views/modals/wallet-balance.html:61
+msgid "Confirming"
+msgstr "Potvrzuji"
+
+#: www/views/bitpayCardIntro.html:37
+msgid "Connect my BitPay Card"
+msgstr "Připojit moji BitPay kartu"
+
+#: src/js/services/onGoingProcess.js:13
+msgid "Connecting to Coinbase..."
+msgstr "Připojení ke Coinbase..."
+
+#: src/js/services/onGoingProcess.js:14
+msgid "Connecting to Glidera..."
+msgstr "Připojení ke Glidera..."
+
+#: src/js/services/bwcError.js:53
+msgid "Connection reset by peer"
+msgstr "Připojení resetováno peerem"
+
+#: www/views/tab-send.html:45
+msgid "Contacts"
+msgstr "Kontakty"
+
+#: www/views/onboarding/notifications.html:9
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: www/views/preferencesLanguage.html:26
+msgid "Contribute Translations"
+msgstr "Podílejte se na překladech"
+
+#: src/js/services/bwcError.js:62
+msgid "Copayer already in this wallet"
+msgstr "Spoluplátce je již v této peněžence"
+
+#: src/js/services/bwcError.js:77
+msgid "Copayer already voted on this spend proposal"
+msgstr "Spoluplátce již volil ohledně tohoto návrhu platby"
+
+#: src/js/services/bwcError.js:107
+msgid "Copayer data mismatch"
+msgstr "Zmatek v datech spoluplátce"
+
+#: www/views/includes/walletActivity.html:2
+msgid "Copayer joined"
+msgstr "Spoluplátce se připojil"
+
+#: www/views/preferencesInformation.html:88
+msgid "Copayer {{$index}}"
+msgstr "Spoluplátce {{$index}}"
+
+#: src/js/controllers/copayers.js:79
+#: src/js/controllers/export.js:193
+#: www/views/includes/copyToClipboard.html:4
+msgid "Copied to clipboard"
+msgstr "Zkopírováno do shcránky"
+
+#: www/views/tab-export-file.html:94
+msgid "Copy this text as it is to a safe place (notepad or email)"
+msgstr "Zkopírujte tento text tak jak je na bezpečné místo (notepadu nebo emailu)"
+
+#: www/views/includes/incomingDataMenu.html:51
+#: www/views/includes/incomingDataMenu.html:70
+#: www/views/includes/incomingDataMenu.html:94
+#: www/views/includes/logOptions.html:9
+#: www/views/tab-export-file.html:78
+msgid "Copy to clipboard"
+msgstr "Zkopírovat do schránky"
+
+#: src/js/controllers/buyMercadoLibre.js:101
+msgid "Could not access Gift Card Service"
+msgstr "Nelze se dostat na Gift Card službu"
+
+#: www/views/tab-import-phrase.html:2
+msgid "Could not access the wallet at the server. Please check:"
+msgstr "Nelze se dostat na peněženku na serveru. Prosím zkontrolujte:"
+
+#: src/js/controllers/buyAmazon.js:101
+msgid "Could not access to Amazon.com"
+msgstr "Nelze se dostat na Amazon.com"
+
+#: src/js/services/profileService.js:493
+msgid "Could not access wallet"
+msgstr "Nelze se dostat k peněžence"
+
+#: src/js/controllers/confirm.js:185
+msgid "Could not add message to imported wallet without shared encrypting key"
+msgstr "Nemohu přidat zprávu do importované peněženky bez sdíleného šifrovacího klíče"
+
+#: src/js/controllers/modals/txpDetails.js:193
+msgid "Could not broadcast payment"
+msgstr "Nemohu provést broadcast platby"
+
+#: src/js/services/bwcError.js:41
+msgid "Could not build transaction"
+msgstr "Nemohu vytvořit transakci"
+
+#: src/js/services/walletService.js:857
+msgid "Could not create address"
+msgstr "Nemohu vytvořit adresu"
+
+#: src/js/controllers/topup.js:91
+msgid "Could not create the invoice"
+msgstr "Nemohu vytvořit fakturu"
+
+#: src/js/controllers/buyAmazon.js:163
+#: src/js/controllers/buyMercadoLibre.js:163
+#: src/js/controllers/topup.js:141
+msgid "Could not create transaction"
+msgstr "Nemohu vytvořit transakci"
+
+#: src/js/services/profileService.js:342
+msgid "Could not create using the specified extended private key"
+msgstr "Nelze vytvořit pomocí daného rozšířeného soukromého klíče"
+
+#: src/js/services/profileService.js:353
+msgid "Could not create using the specified extended public key"
+msgstr "Nelze vytvořit použitím daného rozšířeného veřejného klíče"
+
+#: src/js/services/profileService.js:335
+msgid "Could not create: Invalid wallet recovery phrase"
+msgstr "Nelze vytvořit: Neplatná obnovovací fráze peněženky"
+
+#: src/js/controllers/import.js:99
+msgid "Could not decrypt file, check your password"
+msgstr "Nemohu dešifrovat soubor, zkontrolujte svoje heslo"
+
+#: src/js/controllers/modals/txpDetails.js:175
+msgid "Could not delete payment proposal"
+msgstr "Nemohu smazat návrh platby"
+
+#: src/js/services/feeService.js:72
+msgid "Could not get dynamic fee"
+msgstr "Nemohu získat dynamický poplatek"
+
+#: src/js/services/feeService.js:42
+msgid "Could not get dynamic fee for level: {{feeLevel}}"
+msgstr "Nemohu získat dynamický poplatek pro úroveň: {{feeLevel}}"
+
+#: src/js/controllers/modals/feeLevels.js:112
+msgid "Could not get fee levels"
+msgstr "Nemohu získat úroveň poplatku"
+
+#: src/js/controllers/buyAmazon.js:121
+#: src/js/controllers/buyMercadoLibre.js:121
+#: src/js/controllers/topup.js:99
+msgid "Could not get the invoice"
+msgstr "Nemohu získat fakturu"
+
+#: src/js/controllers/bitpayCard.js:66
+msgid "Could not get transactions"
+msgstr "Nemohu získat transakce"
+
+#: src/js/services/profileService.js:597
+#: src/js/services/profileService.js:631
+#: src/js/services/profileService.js:654
+msgid "Could not import"
+msgstr "Nemohu importovat"
+
+#: src/js/services/profileService.js:566
+msgid "Could not import. Check input file and spending password"
+msgstr "Nemohu importovat. Zkontrolujte vstupní soubor a heslo pro platby"
+
+#: src/js/services/profileService.js:439
+msgid "Could not join wallet"
+msgstr "Nemohu připojit peněženku"
+
+#: src/js/controllers/modals/txpDetails.js:155
+msgid "Could not reject payment"
+msgstr "Nemohu odmítnout platbu"
+
+#: src/js/controllers/preferencesBitpayServices.js:33
+msgid "Could not remove account"
+msgstr "Nemohu odstranit účet"
+
+#: src/js/controllers/preferencesBitpayCard.js:20
+#: src/js/controllers/preferencesBitpayServices.js:50
+msgid "Could not remove card"
+msgstr "Nemohu odstranit kartu"
+
+#: src/js/services/walletService.js:776
+msgid "Could not save preferences on the server"
+msgstr "Nemohu uložit vlastnosti na server"
+
+#: src/js/controllers/modals/txpDetails.js:141
+msgid "Could not send payment"
+msgstr "Nemohu poslat platbu"
+
+#: src/js/controllers/buyAmazon.js:323
+#: src/js/controllers/buyMercadoLibre.js:316
+#: src/js/controllers/topup.js:297
+msgid "Could not send transaction"
+msgstr "Nemohu poslat transakci"
+
+#: www/views/walletDetails.html:198
+msgid "Could not update transaction history"
+msgstr "Nemohu aktualizovat transakční historii"
+
+#: src/js/controllers/addresses.js:34
+#: src/js/controllers/addresses.js:42
+#: src/js/controllers/copayers.js:30
+#: src/js/controllers/walletDetails.js:78
+msgid "Could not update wallet"
+msgstr "Nemohu aktualizovat peněženku"
+
+#: www/views/tab-create-personal.html:3
+msgid "Create Personal Wallet"
+msgstr "Vytvořit osobní peněženku"
+
+#: www/views/tab-create-shared.html:3
+msgid "Create Shared Wallet"
+msgstr "Vytvořit sdílenou peněženku"
+
+#: www/views/onboarding/tour.html:51
+#: www/views/tab-home.html:77
+#: www/views/tab-send.html:36
+msgid "Create particl wallet"
+msgstr "Vytvoř particl peněženku"
+
+#: www/views/tab-create-personal.html:129
+msgid "Create new wallet"
+msgstr "Vytvoř novou peněženku"
+
+#: www/views/add.html:22
+msgid "Create shared wallet"
+msgstr "Vytvoř sdílenou peněženku"
+
+#: www/views/tab-create-shared.html:158
+msgid "Create {{formData.requiredCopayers}}-of-{{formData.totalCopayers}} wallet"
+msgstr "Vytvoř {{formData.requiredCopayers}}-z-{{formData.totalCopayers}} peněženku"
+
+#: www/views/modals/txp-details.html:83
+#: www/views/tx-details.html:62
+msgid "Created by"
+msgstr "Vytvořeno"
+
+#: src/js/services/onGoingProcess.js:18
+msgid "Creating Wallet..."
+msgstr "Vytváření peněženky..."
+
+#: src/js/services/onGoingProcess.js:17
+msgid "Creating transaction"
+msgstr "Vytváření transakce"
+
+#: www/views/modals/chooseFeeLevel.html:34
+#: www/views/preferencesFee.html:20
+msgid "Current fee rate for this policy"
+msgstr "Aktuální sazba poplatku pro tuto politiku"
+
+#: src/js/services/feeService.js:15
+msgid "Custom"
+msgstr "Zvolit"
+
+#: www/views/customAmount.html:9
+msgid "Custom Amount"
+msgstr "Volitelné množství"
+
+#: src/js/controllers/preferencesFee.js:84
+msgid "Custom Fee"
+msgstr "Volitelný poplatek"
+
+#: www/views/modals/mercadolibre-card-details.html:56
+#: www/views/modals/txp-details.html:89
+#: www/views/tx-details.html:68
+msgid "Date"
+msgstr "Datum"
+
+#: www/views/preferencesDeleteWallet.html:21
+msgid "Delete"
+msgstr "Smazat"
+
+#: www/views/modals/txp-details.html:166
+msgid "Delete Payment Proposal"
+msgstr "Smazat návrh platby"
+
+#: www/views/preferencesAdvanced.html:33
+#: www/views/preferencesDeleteWallet.html:3
+msgid "Delete Wallet"
+msgstr "Smazat peněženku"
+
+#: www/views/copayers.html:59
+msgid "Delete it and create a new one"
+msgstr "Smazat a vytvořit nový"
+
+#: src/js/services/onGoingProcess.js:19
+msgid "Deleting Wallet..."
+msgstr "Mazání peněženky..."
+
+#: src/js/services/onGoingProcess.js:28
+msgid "Deleting payment proposal"
+msgstr "Mazání platebního návrhu"
+
+#: www/views/join.html:138
+#: www/views/tab-create-personal.html:109
+#: www/views/tab-create-shared.html:138
+#: www/views/tab-import-phrase.html:46
+msgid "Derivation Path"
+msgstr "Odvozená cesta"
+
+#: www/views/preferencesInformation.html:41
+msgid "Derivation Strategy"
+msgstr "Odvozená strategie"
+
+#: www/views/buyAmazon.html:39
+#: www/views/buyMercadoLibre.html:38
+#: www/views/modals/mercadolibre-card-details.html:6
+#: www/views/topup.html:45
+msgid "Details"
+msgstr "Detaily"
+
+#: src/js/controllers/lockSetup.js:9
+#: src/js/controllers/tab-settings.js:60
+msgid "Disabled"
+msgstr "Vypnuto"
+
+#: www/views/includes/backupNeededPopup.html:10
+#: www/views/onboarding/backupRequest.html:12
+msgid "Do it later"
+msgstr "Provést později"
+
+#: www/views/tab-export-file.html:29
+msgid "Do not include private key"
+msgstr "Nevkládat soukromý klíč"
+
+#: www/views/preferencesLanguage.html:21
+msgid "Don't see your language on Crowdin? Contact the Owner on Crowdin! We'd love to support your language."
+msgstr "Nevidíte váš jazyk na Crowdin? Kontaktujte vlastníka Crowdinu! Rádi budeme podporovat váš jazyk."
+
+#: www/views/tab-export-file.html:59
+#: www/views/tab-home.html:22
+msgid "Download"
+msgstr "Stáhnout"
+
+#: www/views/addresses.html:19
+msgid "Each particl wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
+msgstr "Každá partcl peněženka může vygenerovat miliardy address z vaší 12-ti slovní zálohy. Nová adresa je automaticky generována a ukázána pokaždé když obdržíte platbu."
+
+#: src/js/services/feeService.js:13
+msgid "Economy"
+msgstr "Ekonomika"
+
+#: www/views/onboarding/collectEmail.html:27
+msgid "Edit"
+msgstr "Editovat"
+
+#: www/views/addressbook.add.html:29
+#: www/views/addressbook.view.html:22
+msgid "Email"
+msgstr "Email"
+
+#: www/views/preferencesNotifications.html:42
+msgid "Email Address"
+msgstr "Emailová adresa"
+
+#: src/js/services/bwcError.js:122
+msgid "Empty addresses limit reached. New addresses cannot be generated."
+msgstr "Limit prázdných adres dosažen. Nová adresa nemůže být generována."
+
+#: www/views/tab-scan.html:19
+msgid "Enable camera access in your device settings to get started."
+msgstr "Povolte přístup kamery na vašem zařízení abychom mohli začít "
+
+#: www/views/preferencesNotifications.html:29
+msgid "Enable email notifications"
+msgstr "Povolit emailové notifikace"
+
+#: www/views/preferencesNotifications.html:12
+msgid "Enable push notifications"
+msgstr "Povolit poush notifikace"
+
+#: www/views/tab-scan.html:18
+msgid "Enable the camera to get started."
+msgstr "Povolit kameru pro zahájení"
+
+#: src/js/services/walletService.js:1048
+#: src/js/services/walletService.js:1063
+msgid "Enter Spending Password"
+msgstr "Zadejte heslo pro platby"
+
+#: src/js/services/bitpayAccountService.js:110
+msgid "Enter Two Factor for your BitPay account"
+msgstr "Zadejte 2FA pro váš BitPay účet"
+
+#: www/views/amount.html:4
+msgid "Enter amount"
+msgstr "Zadejte množství"
+
+#: www/views/modals/chooseFeeLevel.html:41
+msgid "Enter custom fee"
+msgstr "Zadejte zvolený poplatek"
+
+#: src/js/services/walletService.js:1030
+msgid "Enter new spending password"
+msgstr "Zadejte nové heslo pro platby"
+
+#: www/views/join.html:76
+#: www/views/tab-create-personal.html:49
+#: www/views/tab-create-shared.html:78
+msgid "Enter the recovery phrase (BIP39)"
+msgstr "Zadejte obnovovací frázi (BIP39)"
+
+#: www/views/onboarding/collectEmail.html:13
+msgid "Enter your email"
+msgstr "Zadejte váš email"
+
+#: www/views/backup.html:62
+msgid "Enter your password"
+msgstr "Zadejte svoje heslo"
+
+#. Trying to import a malformed wallet export QR code
+#: src/js/controllers/activity.js:45
+#: src/js/controllers/addressbookAdd.js:30
+#: src/js/controllers/addressbookView.js:29
+#: src/js/controllers/addresses.js:130
+#: src/js/controllers/addresses.js:131
+#: src/js/controllers/bitpayCard.js:66
+#: src/js/controllers/bitpayCardIntro.js:40
+#: src/js/controllers/bitpayCardIntro.js:81
+#: src/js/controllers/buyAmazon.js:23
+#: src/js/controllers/buyAmazon.js:34
+#: src/js/controllers/buyMercadoLibre.js:23
+#: src/js/controllers/buyMercadoLibre.js:34
+#: src/js/controllers/confirm.js:276
+#: src/js/controllers/copayers.js:67
+#: src/js/controllers/create.js:155
+#: src/js/controllers/create.js:168
+#: src/js/controllers/create.js:175
+#: src/js/controllers/create.js:197
+#: src/js/controllers/create.js:204
+#: src/js/controllers/create.js:222
+#: src/js/controllers/export.js:109
+#: src/js/controllers/export.js:115
+#: src/js/controllers/export.js:126
+#: src/js/controllers/export.js:154
+#: src/js/controllers/export.js:160
+#: src/js/controllers/export.js:171
+#: src/js/controllers/export.js:47
+#: src/js/controllers/export.js:53
+#: src/js/controllers/feedback/send.js:23
+#: src/js/controllers/import.js:104
+#: src/js/controllers/import.js:116
+#: src/js/controllers/import.js:134
+#: src/js/controllers/import.js:185
+#: src/js/controllers/import.js:213
+#: src/js/controllers/import.js:222
+#: src/js/controllers/import.js:237
+#: src/js/controllers/import.js:249
+#: src/js/controllers/import.js:260
+#: src/js/controllers/import.js:270
+#: src/js/controllers/import.js:294
+#: src/js/controllers/import.js:307
+#: src/js/controllers/import.js:317
+#: src/js/controllers/import.js:327
+#: src/js/controllers/import.js:351
+#: src/js/controllers/import.js:364
+#: src/js/controllers/import.js:70
+#: src/js/controllers/import.js:83
+#: src/js/controllers/join.js:121
+#: src/js/controllers/join.js:135
+#: src/js/controllers/join.js:142
+#: src/js/controllers/join.js:165
+#: src/js/controllers/join.js:173
+#: src/js/controllers/join.js:191
+#: src/js/controllers/modals/feeLevels.js:9
+#: src/js/controllers/modals/txpDetails.js:134
+#: src/js/controllers/paperWallet.js:47
+#: src/js/controllers/preferencesBitpayCard.js:20
+#: src/js/controllers/preferencesBitpayServices.js:33
+#: src/js/controllers/preferencesBitpayServices.js:50
+#: src/js/controllers/preferencesDelete.js:36
+#: src/js/controllers/preferencesExternal.js:20
+#: src/js/controllers/tab-home.js:174
+#: src/js/controllers/tab-send.js:132
+#: src/js/controllers/tabsController.js:36
+#: src/js/controllers/tabsController.js:7
+#: src/js/controllers/topup.js:20
+#: src/js/controllers/topup.js:31
+#: src/js/controllers/tx-details.js:102
+#: src/js/services/incomingData.js:98
+#: www/views/mercadoLibreCards.html:19
+#: www/views/modals/mercadolibre-card-details.html:45
+msgid "Error"
+msgstr "Chyba"
+
+#: src/js/controllers/confirm.js:447
+msgid "Error at confirm"
+msgstr "Chyba při potvrzení"
+
+#: src/js/controllers/buyAmazon.js:178
+msgid "Error creating gift card"
+msgstr "Chyba vytvoření dárkové karty"
+
+#: src/js/controllers/buyAmazon.js:93
+#: src/js/controllers/buyMercadoLibre.js:93
+msgid "Error creating the invoice"
+msgstr "Chyba při vytváření faktury"
+
+#: src/js/services/profileService.js:396
+msgid "Error creating wallet"
+msgstr "Chyba při vytváření peněženky"
+
+#: src/js/controllers/confirm.js:266
+msgid "Error getting SendMax information"
+msgstr "Chyba při získání SendMax informace"
+
+#: src/js/controllers/buyAmazon.js:135
+#: src/js/controllers/buyMercadoLibre.js:135
+#: src/js/controllers/topup.js:113
+msgid "Error in Payment Protocol"
+msgstr "Chyba v Platebním protokolu"
+
+#: src/js/controllers/bitpayCardIntro.js:14
+msgid "Error pairing BitPay Account"
+msgstr "Chyba párování BitPay účtu"
+
+#: src/js/controllers/paperWallet.js:41
+msgid "Error scanning funds:"
+msgstr "Chyba skenování vkladů:"
+
+#: src/js/controllers/paperWallet.js:91
+msgid "Error sweeping wallet:"
+msgstr "Chyba při vyčištění peněženky:"
+
+#: src/js/controllers/bitpayCardIntro.js:20
+msgid "Error updating Debit Cards"
+msgstr "Chyba aktualizace debetních karet"
+
+#: src/js/services/bwcError.js:143
+msgid "Exceeded daily limit of $500 per user"
+msgstr "Překročen denní limit $500 na uživatele"
+
+#: src/js/controllers/confirm.js:411
+#: www/views/confirm.html:27
+#: www/views/mercadoLibreCards.html:25
+#: www/views/modals/mercadolibre-card-details.html:34
+#: www/views/modals/txp-details.html:121
+msgid "Expired"
+msgstr "Expirovalo"
+
+#: www/views/modals/paypro.html:54
+#: www/views/modals/txp-details.html:127
+msgid "Expires"
+msgstr "Expiruje"
+
+#: www/views/preferencesAdvanced.html:21
+msgid "Export Wallet"
+msgstr "Export peněženky"
+
+#: www/views/preferencesHistory.html:11
+#: www/views/preferencesHistory.html:14
+msgid "Export to file"
+msgstr "Export do souboru"
+
+#: www/views/export.html:3
+msgid "Export wallet"
+msgstr "Export peněženky"
+
+#: src/js/services/walletService.js:1175
+#: www/views/tab-export-qrCode.html:9
+msgid "Exporting via QR not supported for this wallet"
+msgstr "Export pomocí QR není podporován pro tuto peněženku"
+
+#: www/views/preferencesInformation.html:83
+msgid "Extended Public Keys"
+msgstr "Rozšířený Veřejný Klíč"
+
+#: src/js/services/onGoingProcess.js:20
+msgid "Extracting Wallet information..."
+msgstr "Získávání informací peněženky..."
+
+#: src/js/controllers/export.js:115
+#: src/js/controllers/export.js:126
+#: src/js/controllers/export.js:160
+#: src/js/controllers/export.js:171
+#: www/views/tab-export-file.html:4
+msgid "Failed to export"
+msgstr "Selhal export"
+
+#: www/views/tab-create-personal.html:14
+#: www/views/tab-create-shared.html:14
+msgid "Family vacation funds"
+msgstr "Fond na rodinnou dovolenou"
+
+#: www/views/tx-details.html:81
+msgid "Fee"
+msgstr "Poplatek"
+
+#: www/views/modals/chooseFeeLevel.html:75
+msgid "Fee level"
+msgstr "Úroveň poplatku"
+
+#: src/js/controllers/modals/feeLevels.js:100
+msgid "Fee level is not defined"
+msgstr "Úroveň poplatku není definovaná"
+
+#: www/views/confirm.html:81
+#: www/views/modals/txp-details.html:101
+msgid "Fee:"
+msgstr "Poplatek:"
+
+#: src/js/controllers/feedback/send.js:23
+msgid "Feedback could not be submitted. Please try again later."
+msgstr "Feedback nemůže být potvrzen. Prosím zkuste to později znovu."
+
+#: src/js/services/onGoingProcess.js:42
+msgid "Fetching BitPay Account..."
+msgstr "Načítání BitPay účtu..."
+
+#: src/js/services/onGoingProcess.js:21
+msgid "Fetching payment information"
+msgstr "Načítání platebních informací"
+
+#: www/views/export.html:14
+#: www/views/import.html:16
+msgid "File/Text"
+msgstr "Soubor/Text"
+
+#: www/views/preferencesLogs.html:17
+msgid "Filter setting"
+msgstr "Nastavení filtru"
+
+#: src/js/services/fingerprintService.js:43
+#: src/js/services/fingerprintService.js:48
+msgid "Finger Scan Failed"
+msgstr "Sken prstu selhal"
+
+#: src/js/controllers/feedback/send.js:34
+#: www/views/feedback/complete.html:7
+msgid "Finish"
+msgstr "Dokončit"
+
+#: www/views/tab-create-personal.html:121
+#: www/views/tab-create-shared.html:150
+msgid "For audit purposes"
+msgstr "Pro účely auditu"
+
+#: src/js/controllers/topup.js:306
+#: www/views/buyAmazon.html:29
+#: www/views/buyMercadoLibre.html:28
+#: www/views/confirm.html:65
+#: www/views/modals/txp-details.html:74
+#: www/views/topup.html:34
+#: www/views/tx-details.html:52
+msgid "From"
+msgstr "Od"
+
+#: src/js/controllers/bitpayCardIntro.js:71
+msgid "From BitPay account"
+msgstr "Z BitPay účtu"
+
+#: www/views/tab-import-phrase.html:54
+msgid "From Hardware Wallet"
+msgstr "Z hardwarové peněženky"
+
+#: www/views/tab-export-qrCode.html:5
+msgid "From the destination device, go to Add wallet &gt; Import wallet and scan this QR code"
+msgstr "Z cílového zařízení, běžte na Přidat peněženku &gt; Import peněženky a sken tohoto QR kódu"
+
+#: src/js/services/bwcError.js:74
+msgid "Funds are locked by pending spend proposals"
+msgstr "Vklady jsou zamčené nevyřízeným platebním návrhem "
+
+#: www/views/paperWallet.html:16
+msgid "Funds found:"
+msgstr "Vklady nalezeny:"
+
+#: www/views/topup.html:49
+msgid "Funds to be added"
+msgstr "Vklady k přidání "
+
+#: www/views/paperWallet.html:53
+msgid "Funds transferred"
+msgstr "Vklady převedeny"
+
+#: www/views/topup.html:103
+msgid "Funds were added to debit card"
+msgstr "Vklady byly přidány na debetní kartu"
+
+#: www/views/paperWallet.html:22
+msgid "Funds will be transferred to"
+msgstr "Vklady byly převedeny na"
+
+#: www/views/tab-receive.html:51
+msgid "Generate new address"
+msgstr "Generovat novou adresu"
+
+#: src/js/services/onGoingProcess.js:22
+msgid "Generating .csv file..."
+msgstr "Generování .csv souboru..."
+
+#: src/js/services/onGoingProcess.js:37
+msgid "Generating new address..."
+msgstr "Generování nové adresy...."
+
+#: www/views/bitpayCardIntro.html:23
+msgid "Get local cash anywhere you go, from any Visa<sup>&reg;</sup> compatible ATM. ATM bank fees may apply."
+msgstr "Získejte lokální hotovost kamkoli jdete, z jakéhokoli Visa<sup>&reg;</sup> kompatibilního ATM, mohou se uplatnit bankovní poplatky."
+
+#: www/views/onboarding/collectEmail.html:15
+msgid "Get news and updates from BitPay"
+msgstr "Získejte novinky a aktualizace z BitPay"
+
+#: www/views/onboarding/welcome.html:8
+msgctxt "button"
+msgid "Get started"
+msgstr "Začít"
+
+#: www/views/bitpayCard.html:49
+msgid "Get started"
+msgstr "Začít"
+
+#: www/views/addressbook.html:20
+msgid "Get started by adding your first one."
+msgstr "Začněte přidáním vašeho prvního."
+
+#: src/js/services/onGoingProcess.js:23
+msgid "Getting fee levels..."
+msgstr "Získávání úprovní poplatků..."
+
+#: www/views/modals/mercadolibre-card-details.html:30
+#: www/views/modals/mercadolibre-card-details.html:35
+msgid "Gift Card is not available to use anymore"
+msgstr "Gift karty nejsou nadále dostupné"
+
+#: www/views/buyAmazon.html:43
+#: www/views/buyMercadoLibre.html:42
+msgid "Gift card"
+msgstr "Gift karty"
+
+#: src/js/controllers/buyAmazon.js:203
+msgid "Gift card expired"
+msgstr "Gift karta expirovala"
+
+#: www/views/buyAmazon.html:111
+msgid "Gift card generated and ready to use."
+msgstr "Gift karta byla generována a je připravena k použití"
+
+#: src/js/controllers/bitpayCard.js:114
+#: src/js/controllers/bitpayCard.js:124
+#: src/js/controllers/onboarding/terms.js:23
+#: src/js/controllers/preferencesAbout.js:16
+#: src/js/controllers/preferencesLanguage.js:14
+#: src/js/controllers/tab-home.js:149
+#: src/js/controllers/tab-settings.js:48
+#: src/js/controllers/tx-details.js:176
+msgid "Go Back"
+msgstr "Jít zpět"
+
+#: src/js/controllers/onboarding/backupRequest.js:20
+#: src/js/controllers/onboarding/backupRequest.js:26
+#: src/js/services/bitpayAccountService.js:84
+msgid "Go back"
+msgstr "Jít zpět"
+
+#: www/views/backupWarning.html:15
+#: www/views/includes/confirmBackupPopup.html:8
+#: www/views/onboarding/tour.html:23
+msgid "Got it"
+msgstr "Mám to"
+
+#: www/views/preferencesInformation.html:47
+#: www/views/preferencesInformation.html:53
+msgid "Hardware Wallet"
+msgstr "Hardwarová peněženka"
+
+#: www/views/preferencesExternal.html:18
+msgid "Hardware not connected."
+msgstr "Hardware není připojen."
+
+#: www/views/import.html:20
+msgid "Hardware wallet"
+msgstr "Hardwarová peněženka"
+
+#: www/views/tab-settings.html:20
+msgid "Help & Support"
+msgstr "Pomoc & Podpora"
+
+#: src/js/controllers/bitpayCard.js:112
+#: src/js/controllers/tab-settings.js:46
+msgid "Help and support information is available at the website."
+msgstr "Pomoc a informace podpory jsou dostupné na webové stránce."
+
+#: www/views/addresses.html:25
+msgid "Hide"
+msgstr "Skrýt"
+
+#: www/views/preferences.html:27
+msgid "Hide Balance"
+msgstr "Skrýt zůstatek"
+
+#: www/views/advancedSettings.html:29
+msgid "Hide Next Steps Card"
+msgstr "Skrýt další kroky karty"
+
+#: www/views/join.html:46
+#: www/views/tab-create-personal.html:26
+#: www/views/tab-create-shared.html:55
+#: www/views/tab-export-file.html:25
+#: www/views/tab-import-file.html:28
+#: www/views/tab-import-hardware.html:31
+#: www/views/tab-import-phrase.html:33
+msgid "Hide advanced options"
+msgstr "Skrýt pokročilé volby"
+
+#: www/views/tabs.html:3
+msgid "Home"
+msgstr "Domů"
+
+#: src/js/controllers/feedback/send.js:61
+#: src/js/controllers/feedback/send.js:65
+#: src/js/controllers/feedback/send.js:69
+msgid "How could we improve your experience?"
+msgstr "Jak bychom mohli vylepšit váš zážižek?"
+
+#: www/views/feedback/rateCard.html:3
+msgid "How do you like {{appName}}?"
+msgstr "Jak se vám líbí {{appName}}?"
+
+#: src/js/controllers/feedback/rateCard.js:29
+msgid "I don't like it"
+msgstr "Nelíbí se mi"
+
+#: www/views/onboarding/disclaimer.html:43
+msgid "I have read, understood, and agree to the <a ng-click=\"openTerms()\" translate=\"\">Terms of Use</a>."
+msgstr "Přečetl jsem si, porozuměl a souhlasím s <a ng-click=\"openTerms()\" translate=\"\">Podmínkami použití</a>."
+
+#: www/views/modals/terms.html:22
+msgid "I have read, understood, and agree with the Terms of use."
+msgstr "Přečetl jsem a porozumněl a souhlasím s Podmínkami použití."
+
+#: www/views/join.html:134
+#: www/views/tab-create-personal.html:105
+#: www/views/tab-create-shared.html:134
+msgid "I have written it down"
+msgstr "Zapsal jsem si to"
+
+#: src/js/controllers/feedback/rateCard.js:35
+msgid "I like the app"
+msgstr "Líbí se mi tato aplikace"
+
+#: src/js/controllers/feedback/rateCard.js:26
+msgid "I think this app is terrible."
+msgstr "Myslím, že tahle aplikace je hrozná."
+
+#: src/js/controllers/onboarding/backupRequest.js:19
+#: www/views/includes/screenshotWarningModal.html:9
+msgid "I understand"
+msgstr "Rozumím"
+
+#: www/views/onboarding/disclaimer.html:21
+msgid "I understand that if this app is moved to another device or deleted, my particl can only be recovered with the backup phrase."
+msgstr "Rozumím, že pokud je aplikace přesunuta na jiné zařízení nebo smazána, moje particly mohou být obnoveny pouze pomocí záložní fráze."
+
+#: www/views/onboarding/disclaimer.html:18
+msgid "I understand that my funds are held securely on this device, not by a company."
+msgstr "Rozumím, že moje vklady jsou drženy bezpečně na tomto zařízení, ne u společnosti."
+
+#: www/views/backup.html:29
+msgid "I've written it down"
+msgstr "Zapsal jsem to"
+
+#: www/views/preferences.html:45
+msgid "If enabled, all sensitive information (private key and recovery phrase) and actions (spending and exporting) associated with this wallet will be protected."
+msgstr "Pokud je zapnuto, všechny sensitivní infomace (soukromý klíč a obnovovací fráze) a akce (útraty a exporty) přidružené k této peněžence budou chráněny."
+
+#: www/views/advancedSettings.html:22
+msgid "If enabled, the Recent Transactions card - a list of transactions occuring across all wallets - will appear in the Home tab."
+msgstr "Pokud je zapnuto, Nedávná transakční karta - seznam transakcí objevující se napříč všemi peněženkami - se objeví v Domovské záložce."
+
+#: www/views/advancedSettings.html:13
+msgid "If enabled, wallets will also try to spend unconfirmed funds. This option may cause transaction delays."
+msgstr "Pokud je zapnuto, peněženka se bude snažit utratit nepotvrzené vklady. Toto nastavení může způsobit zpožení transakcí."
+
+#: src/js/controllers/onboarding/backupRequest.js:18
+msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
+msgstr "Pokud bude toto zařízení nahrazeno nebo tato aplikace smazaná, ani vy ani BitPay nebude moci obnovit vaše vklady bez zálohy."
+
+#: www/views/feedback/complete.html:23
+msgid "If you have additional feedback, please let us know by tapping the \"Send feedback\" option in the Settings tab."
+msgstr "Pokud máte další návrhy, dejte nám prosím vědět poklepáním na volbu \"Poslat feedback\" v záložce Nastavení."
+
+#: www/views/includes/screenshotWarningModal.html:8
+msgid "If you take a screenshot, your backup may be viewed by other apps. You can make a safe backup with physical paper and a pen."
+msgstr "Když uděláte screenshot, vaše záloha může být viděna dalšími aplikacemi. Můžete udělat bezpečnou zálohu pomocí papíru a tužky."
+
+#: www/views/tab-import-hardware.html:42
+#: www/views/tab-import-phrase.html:77
+msgid "Import"
+msgstr "Import"
+
+#: www/views/import.html:3
+msgid "Import Wallet"
+msgstr "Import peněženky"
+
+#: www/views/tab-import-file.html:39
+msgid "Import backup"
+msgstr "Import zálohy"
+
+#: www/views/add.html:38
+msgid "Import wallet"
+msgstr "Import peněženky..."
+
+#: src/js/services/onGoingProcess.js:24
+msgid "Importing Wallet..."
+msgstr "Importuji peněženku..."
+
+#: www/views/backup.html:65
+msgid "In order to verify your wallet backup, please type your password."
+msgstr "Pro ověření zálohy vaší peněženky, prosím napište svoje heslo."
+
+#: www/views/mercadoLibreCards.html:24
+#: www/views/modals/mercadolibre-card-details.html:29
+msgid "Inactive"
+msgstr "Neaktivní"
+
+#: www/views/includes/walletItem.html:11
+#: www/views/includes/walletSelector.html:18
+#: www/views/tab-home.html:90
+#: www/views/tab-settings.html:117
+msgid "Incomplete"
+msgstr "Nekompletní"
+
+#: www/views/tab-receive.html:22
+msgid "Incomplete wallet"
+msgstr "Nekompletní peněženka"
+
+#: www/views/modals/pin.html:12
+msgid "Incorrect PIN, try again."
+msgstr "Nesprávný PIN, zkuste to znova."
+
+#. Trying to import a malformed wallet export QR code
+#: src/js/controllers/import.js:70
+msgid "Incorrect code format"
+msgstr "Nesprávný formát kódu"
+
+#: src/js/services/bwcError.js:113
+msgid "Incorrect network address"
+msgstr "Nesprávná síťová adresa"
+
+#: src/js/controllers/confirm.js:112
+#: src/js/controllers/confirm.js:275
+#: src/js/services/bwcError.js:44
+msgid "Insufficient funds"
+msgstr "Nedosatečné vklady"
+
+#: src/js/controllers/topup.js:164
+#: src/js/controllers/topup.js:176
+#: src/js/services/bwcError.js:71
+msgid "Insufficient funds for fee"
+msgstr "Nedostatečné vklady pro poplatek"
+
+#: www/views/includes/walletHistory.html:49
+msgid "Invalid"
+msgstr "Neplatný"
+
+#: src/js/controllers/buyAmazon.js:136
+#: src/js/controllers/buyMercadoLibre.js:136
+#: src/js/controllers/topup.js:114
+msgid "Invalid URL"
+msgstr "Neplatné URL"
+
+#: src/js/controllers/create.js:175
+#: src/js/controllers/import.js:327
+#: src/js/controllers/join.js:142
+msgid "Invalid account number"
+msgstr "Neplatné číslo účtu"
+
+#: src/js/services/bwcError.js:119
+msgid "Invalid address"
+msgstr "Neplatná adresa"
+
+#: src/js/controllers/tabsController.js:7
+msgid "Invalid data"
+msgstr "Neplatná data"
+
+#: src/js/controllers/create.js:155
+#: src/js/controllers/import.js:249
+#: src/js/controllers/join.js:121
+msgid "Invalid derivation path"
+msgstr "Neplatná odvozená cesta"
+
+#: src/js/controllers/copayers.js:90
+msgid "Invitation to share a {{appName}} Wallet"
+msgstr "Pozvánka ke sdílení {{appName}} peněženky"
+
+#: www/views/buyAmazon.html:49
+#: www/views/buyMercadoLibre.html:48
+#: www/views/topup.html:56
+msgid "Invoice Fee"
+msgstr "Poplatek faktury"
+
+#: www/views/mercadoLibreCards.html:20
+#: www/views/modals/mercadolibre-card-details.html:48
+msgid "Invoice expired"
+msgstr "Faktura expirovala."
+
+#: src/js/controllers/feedback/send.js:79
+msgid "Is there anything we could do better?"
+msgstr "Je tu něco, co bychom mohli udělat lépe?"
+
+#: www/views/backup.html:47
+msgid "Is this correct?"
+msgstr "Je to správně?"
+
+#: www/views/onboarding/collectEmail.html:22
+msgid "Is this email address correct?"
+msgstr "Je tato emailová adresa správně?"
+
+#: www/views/addresses.html:25
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your particls secure against hypothetical attacks by quantum computers."
+msgstr "Je dobrý nápad vyhnout se znovupoužívání adres - tohle obojí chrání vaše soukromí a udržuje particl bezpečný proti hypotetickým útokům kvantových počítačů."
+
+#: src/js/controllers/backup.js:76
+msgid "It's important that you write your backup phrase down correctly. If something happens to your wallet, you'll need this backup to recover your money. Please review your backup and try again."
+msgstr "Je důležité abyste si zapsal(a) vaši záložní frázi správně. Pokud se něco stane vaší peněžence, budete potřebovat tuhle zálohu pro obnovení vašich peněz. Prosím zkontrolujte vaši zálohu a zkuste to znovu."
+
+#: www/views/join.html:148
+msgid "Join"
+msgstr "Připojit"
+
+#: src/js/controllers/copayers.js:85
+msgid "Join my {{appName}} Wallet. Here is the invitation code: {{secret}} You can download {{appName}} for your phone or desktop at {{appUrl}}"
+msgstr "Připoj moji {{appName}} peněženku. Tady je kód pozvánky: {{secret}} Můžeš stáhnout {{appName}} pro svůj mobil nebo desktop na {{appUrl}}"
+
+#: www/views/add.html:30
+#: www/views/join.html:5
+msgid "Join shared wallet"
+msgstr "Připojit sdílenou peněženku"
+
+#: src/js/services/onGoingProcess.js:25
+msgid "Joining Wallet..."
+msgstr "Připojování peněženky...."
+
+#: www/views/onboarding/tour.html:22
+msgid "Just scan the code to pay."
+msgstr "Jen oskenujte kód k platbě."
+
+#: src/js/services/bwcError.js:116
+msgid "Key already associated with an existing wallet"
+msgstr "Klíč byl již přidělený k existující peněžence"
+
+#: www/views/preferencesLanguage.html:4
+#: www/views/tab-settings.html:53
+msgid "Language"
+msgstr "Jazyk"
+
+#: www/views/bitpayCard.html:61
+msgid "Last Month"
+msgstr "Minulý měsíc"
+
+#: www/views/backup.html:36
+msgid "Let's verify your backup phrase."
+msgstr "Ověřme vaši záložní frázi."
+
+#: www/views/addresses.html:45
+#: www/views/allAddresses.html:14
+msgid "Loading addresses..."
+msgstr "Načítání adres...."
+
+#: src/js/services/onGoingProcess.js:35
+msgid "Loading transaction info..."
+msgstr "Načítání transakčních informací..."
+
+#: www/views/tab-settings.html:95
+msgid "Lock App"
+msgstr "Uzamknout aplikaci"
+
+#: src/js/controllers/lockSetup.js:23
+msgid "Lock by Fingerprint"
+msgstr "Uzamknout otiskem prstu"
+
+#: src/js/controllers/lockSetup.js:14
+msgid "Lock by PIN"
+msgstr "Uzamknout PINem"
+
+#: www/views/modals/wallet-balance.html:80
+msgid "Locked"
+msgstr "Uzamčeno"
+
+#: src/js/services/bwcError.js:86
+msgid "Locktime in effect. Please wait to create a new spend proposal"
+msgstr "Časový zámek v chodu. Prosím počkejte na odstranění nového platebního návrhu"
+
+#: src/js/services/bwcError.js:89
+msgid "Locktime in effect. Please wait to remove this spend proposal"
+msgstr "Časový zámek v chodu. Prosím počkejte pro odstratnění tohoto platebního návrhu"
+
+#: www/views/includes/logOptions.html:3
+msgid "Log options"
+msgstr "Možnosti přihlášení"
+
+#: www/views/modals/bitpay-card-confirmation.html:14
+msgid "Log out"
+msgstr "Odlogovat"
+
+#: www/views/addresses.html:87
+msgid "Low amount inputs"
+msgstr "Nízké množství vstupů"
+
+#: www/views/includes/walletHistory.html:27
+msgid "Low fees"
+msgstr "Nízké poplatky"
+
+#: www/views/onboarding/tour.html:38
+msgid "Makes sense"
+msgstr "Dává smysl"
+
+#: src/js/controllers/modals/search.js:61
+msgid "Matches:"
+msgstr "Odpovídající:"
+
+#: www/views/includes/copayers.html:4
+#: www/views/preferencesInformation.html:79
+msgid "Me"
+msgstr "Mně"
+
+#: src/js/controllers/feedback/rateCard.js:32
+msgid "Meh - it's alright"
+msgstr "Meh - je to v pořádku"
+
+#: src/js/controllers/tx-details.js:148
+#: www/views/modals/paypro.html:48
+#: www/views/modals/txp-details.html:95
+#: www/views/tx-details.html:74
+msgid "Memo"
+msgstr "Poznámka"
+
+#: www/views/mercadoLibre.html:6
+msgid "Mercado Livre Brazil Gift Cards"
+msgstr "Mercado Livre Brazil Gift Cards"
+
+#: src/js/controllers/buyMercadoLibre.js:97
+msgid "Mercadolibre Gift Card Service is not available at this moment. Please try back later."
+msgstr "Služba Mercadolibre Gift Card není v tuto chvíli dostupná. Prosím zkuste to znovu později"
+
+#: www/views/modals/txp-details.html:133
+msgid "Merchant Message"
+msgstr "Obchodní zpráva"
+
+#: src/js/services/bwcError.js:134
+msgid "Missing parameter"
+msgstr "Chybějící parametr"
+
+#: src/js/services/bwcError.js:32
+msgid "Missing private keys to sign"
+msgstr "Chybějící soukromý klíč pro podpis"
+
+#: www/views/preferences.html:60
+#: www/views/preferencesAdvanced.html:3
+msgid "More Options"
+msgstr "Další možnosti"
+
+#: www/views/includes/walletHistory.html:47
+#: www/views/tx-details.html:19
+msgid "Moved"
+msgstr "Přesunuto"
+
+#: src/js/controllers/tx-details.js:114
+msgid "Moved Funds"
+msgstr "Přesunout vklady"
+
+#: www/views/modals/txp-details.html:57
+msgid "Multiple recipients"
+msgstr "Více příjemců"
+
+#: www/views/tab-import-phrase.html:8
+msgid "NOTE: To import a wallet from a 3rd party software, please go to Add Wallet &gt; Create Wallet, and specify the Recovery Phrase there."
+msgstr "POZNÁMKA: Pro import peněžnky ze softwaru třetích stan, prosím běžte do Přidate peněženku &gt; Vytvořit peněženku a uveďte tam obnovovací frázi."
+
+#: www/views/addressbook.add.html:21
+#: www/views/addressbook.view.html:18
+#: www/views/preferences.html:15
+#: www/views/preferencesAlias.html:17
+msgid "Name"
+msgstr "Název"
+
+#: www/views/buyAmazon.html:55
+#: www/views/buyMercadoLibre.html:54
+#: www/views/topup.html:63
+msgid "Network Fee"
+msgstr "Poplatek sítě"
+
+#: src/js/services/bwcError.js:47
+msgid "Network error"
+msgstr "Síťová chyba"
+
+#: www/views/includes/walletActivity.html:43
+msgid "New Proposal"
+msgstr "Nový návrh"
+
+#: src/js/controllers/addresses.js:131
+msgid "New address could not be generated. Please try again."
+msgstr "Nová adresa nemohla být vygenerovaná. Prosím zkuste to znovu."
+
+#: www/views/add.html:14
+msgid "New personal wallet"
+msgstr "Nová osobní peněženka"
+
+#: www/views/includes/nextSteps.html:3
+msgid "Next steps"
+msgstr "Další kroky"
+
+#: www/views/tab-receive.html:16
+msgid "No Wallet"
+msgstr "Žádná peněženka"
+
+#: src/js/controllers/buyAmazon.js:114
+#: src/js/controllers/buyMercadoLibre.js:114
+msgid "No access key defined"
+msgstr "Zádný přístupový klíč není definován"
+
+#: www/views/onboarding/backupRequest.html:5
+msgid "No backup, no particl."
+msgstr "Žádná záloha, žádné particly."
+
+#: www/views/addressbook.html:19
+msgid "No contacts yet"
+msgstr "Zatím žádné kontakty"
+
+#: www/views/preferencesLogs.html:16
+msgid "No entries for this log level"
+msgstr "Žádný záznam pro tuto úroveň logování"
+
+#: www/views/preferencesExternal.html:12
+msgid "No hardware information available."
+msgstr "Nejsou dostupné žádné informace o hardwaru"
+
+#: www/views/tab-import-hardware.html:3
+msgid "No hardware wallets supported on this device"
+msgstr "Na tomto zařízení není žádná podporovaná hardwarová peněženka"
+
+#: www/views/proposals.html:24
+msgid "No pending proposals"
+msgstr "Zádné čekající návrhy"
+
+#: www/views/activity.html:25
+msgid "No recent transactions"
+msgstr "Žádné nedávné transakce"
+
+#: src/js/controllers/buyAmazon.js:43
+#: src/js/controllers/topup.js:46
+msgid "No signing proposal: No private key"
+msgstr "Žádný podpisový návrh: Není soukromý klíč"
+
+#: www/views/walletDetails.html:192
+msgid "No transactions yet"
+msgstr "Doposud žádné transakce"
+
+#: src/js/controllers/preferencesDelete.js:15
+msgid "No wallet found"
+msgstr "Nebyl nalezen žádný vklad"
+
+#: src/js/controllers/preferencesDelete.js:8
+msgid "No wallet selected"
+msgstr "Žádná peněženka není vybrána"
+
+#: src/js/controllers/buyAmazon.js:298
+#: src/js/controllers/buyMercadoLibre.js:290
+#: src/js/controllers/confirm.js:83
+#: src/js/controllers/topup.js:263
+msgid "No wallets available"
+msgstr "Není dostupná žádná peněženka"
+
+#: www/views/paperWallet.html:47
+msgid "No wallets available to receive funds"
+msgstr "Žádné peněženky pro přijetí vkladu nejsou dostupné"
+
+#: src/js/services/feeService.js:12
+msgid "Normal"
+msgstr "Normálně"
+
+#: src/js/services/bwcError.js:80
+msgid "Not authorized"
+msgstr "Neautorizován"
+
+#: src/js/controllers/confirm.js:276
+msgid "Not enough funds for fee"
+msgstr "Neodstatek vkladu pro poplatek"
+
+#: www/views/onboarding/tour.html:50
+msgid "Not even BitPay can access it."
+msgstr "Dokonce ani BitPay k tomu nemá přástup."
+
+#: src/js/controllers/paperWallet.js:47
+msgid "Not funds found"
+msgstr "Vklady nenalezeny"
+
+#: www/views/feedback/rateApp.html:3
+#: www/views/onboarding/notifications.html:8
+msgid "Not now"
+msgstr "Teď ne"
+
+#: www/views/includes/output.html:15
+msgid "Note"
+msgstr "Poznámka"
+
+#: www/views/modals/wallets.html:25
+msgid "Notice: only 1-1 (single signature) wallets can be used for sell particl"
+msgstr "Upozornění: pouze 1-1 peněženky (se samostatným podpisem) mohou být použity pro prodej particlu"
+
+#: www/views/preferencesNotifications.html:3
+#: www/views/tab-settings.html:46
+msgid "Notifications"
+msgstr "Notifikace"
+
+#: www/views/onboarding/collectEmail.html:9
+msgid "Notifications by email"
+msgstr "Notifikace mailem"
+
+#: www/views/tx-details.html:117
+msgid "Notify me if confirmed"
+msgstr "Dej mi vědět když bude potvrzena"
+
+#: www/views/preferencesNotifications.html:24
+msgid "Notify me when transactions are confirmed"
+msgstr "Upozorni mne až bude transakce potvrzena"
+
+#: www/views/includes/backupNeededPopup.html:8
+msgid "Now is a good time to backup your wallet. If this device is lost, it is impossible to access your funds without a backup."
+msgstr "Nyní je správný čas zazálohovat vaši peněženku. Pokud bude toto zařízení ztraceno, nebude možné se dostat ke vkladům bez zálohy."
+
+#: www/views/backupWarning.html:11
+msgid "Now is a perfect time to assess your surroundings. Nearby windows? Hidden cameras? Shoulder-spies?"
+msgstr "Nyní je perfektní čas zkontrolovat okolí. Blízké okno? Skryté kamery? Špión za ramenem?"
+
+#: src/js/controllers/buyAmazon.js:310
+#: src/js/controllers/topup.js:284
+#: src/js/services/popupService.js:16
+#: src/js/services/popupService.js:52
+#: src/js/services/popupService.js:61
+#: src/js/services/popupService.js:72
+#: www/views/modals/chooseFeeLevel.html:6
+msgid "OK"
+msgstr "OK"
+
+#: www/views/modals/tx-status.html:12
+#: www/views/modals/tx-status.html:24
+#: www/views/modals/tx-status.html:36
+#: www/views/modals/tx-status.html:46
+msgid "OKAY"
+msgstr "OKAY"
+
+#: www/views/modals/terms.html:15
+msgid "Official English Disclaimer"
+msgstr "Oficiální anglické varování"
+
+#: src/js/controllers/feedback/send.js:64
+msgid "Oh no!"
+msgstr "Oh no!"
+
+#: src/js/controllers/buyMercadoLibre.js:304
+msgid "Ok"
+msgstr "Ok"
+
+#: www/views/tab-home.html:39
+msgid "On this screen you can see all your wallets, accounts, and assets."
+msgstr "Na této obrazovce můžete vidět všechny vaše peněženky a aktiva."
+
+#: src/js/controllers/bitpayCard.js:113
+#: src/js/controllers/tab-settings.js:47
+msgid "Open"
+msgstr "Otevřít"
+
+#: src/js/controllers/preferencesLanguage.js:13
+msgid "Open Crowdin"
+msgstr "Otevřít Crowdin"
+
+#: src/js/controllers/preferencesAbout.js:15
+msgid "Open GitHub"
+msgstr "Otevřít GitHub"
+
+#: src/js/controllers/preferencesAbout.js:13
+msgid "Open GitHub Project"
+msgstr "Oteřít GitHub project"
+
+#: src/js/controllers/bitpayCard.js:123
+#: src/js/controllers/tx-details.js:175
+msgid "Open Insight"
+msgstr "Otevřít Insight"
+
+#: www/views/tab-scan.html:22
+msgid "Open Settings"
+msgstr "Otevřít Nastavení"
+
+#: src/js/controllers/preferencesLanguage.js:11
+msgid "Open Translation Community"
+msgstr "Otevřít Komunita překladatelů"
+
+#: src/js/controllers/onboarding/terms.js:22
+msgid "Open Website"
+msgstr "Otevřít stránku"
+
+#: www/views/tab-receive.html:27
+msgid "Open wallet"
+msgstr "Otevřít peněženku"
+
+#: www/views/includes/incomingDataMenu.html:19
+msgid "Open website"
+msgstr "Otevřít stránku"
+
+#: www/views/bitpayCardIntro.html:34
+msgid "Order the BitPay Card"
+msgstr "Objednat BitPay kartu"
+
+#: www/views/join.html:102
+#: www/views/join.html:93
+#: www/views/tab-create-personal.html:67
+#: www/views/tab-create-personal.html:75
+#: www/views/tab-create-shared.html:104
+#: www/views/tab-create-shared.html:96
+#: www/views/tab-import-file.html:18
+#: www/views/tab-import-phrase.html:38
+msgid "Password"
+msgstr "Heslo"
+
+#: src/js/controllers/import.js:83
+msgid "Password required. Make sure to enter your password in advanced options"
+msgstr "Heslo je vyžadováno. Ujistěte se, že jste vložili heslo v rozšířeném nastavení"
+
+#: www/views/join.html:33
+msgid "Paste invitation here"
+msgstr "Sem vložte pozvánku"
+
+#: www/views/tab-import-file.html:13
+msgid "Paste the backup plain text code"
+msgstr "Vložte záložní textový kód"
+
+#: www/views/bitpayCardIntro.html:28
+msgid "Pay 0% fees to turn particl into dollars."
+msgstr "Zaplaťte 0% poplatek za převedení particl na dolary."
+
+#: www/views/modals/paypro.html:18
+msgid "Pay To"
+msgstr "Platba"
+
+#: src/js/controllers/modals/txpDetails.js:45
+#: www/views/modals/tx-status.html:33
+msgid "Payment Accepted"
+msgstr "Platba přijata"
+
+#: www/views/confirm.html:25
+msgid "Payment Expires:"
+msgstr "Platba expiruje:"
+
+#: www/views/modals/txp-details.html:6
+msgid "Payment Proposal"
+msgstr "Návrh platby"
+
+#: www/views/modals/tx-status.html:21
+msgid "Payment Proposal Created"
+msgstr "Vytvoření návrhu platby"
+
+#: www/views/tab-home.html:46
+msgid "Payment Proposals"
+msgstr "Návrhy plateb"
+
+#: src/js/services/payproService.js:32
+msgid "Payment Protocol Invalid"
+msgstr "Neplatný platební protokol"
+
+#: src/js/services/payproService.js:18
+msgid "Payment Protocol not supported on Chrome App"
+msgstr "Platební Protokol není podporován Chrome aplikací"
+
+#: www/views/includes/walletActivity.html:20
+msgid "Payment Received"
+msgstr "Platba přijata"
+
+#: www/views/modals/tx-status.html:43
+#: www/views/modals/txp-details.html:43
+msgid "Payment Rejected"
+msgstr "Platba zamítnuta"
+
+#: src/js/controllers/modals/txpDetails.js:42
+#: www/views/confirm.html:126
+#: www/views/includes/walletActivity.html:11
+#: www/views/modals/txp-details.html:42
+msgid "Payment Sent"
+msgstr "Platba odeslána"
+
+#: www/views/modals/txp-details.html:32
+msgid "Payment accepted, but not yet broadcasted"
+msgstr "Platba akceptována, ale neproběhl ještě broadcast"
+
+#: www/views/modals/txp-details.html:40
+msgid "Payment accepted. It will be broadcasted by Glidera. In case there is a problem, it can be deleted 6 hours after it was created."
+msgstr "Platba akceptována. Proběhne broadcast pomocí Glidera. V případě probému může být smazána 6 hodin poté co byla vytvořena. "
+
+#: www/views/modals/txp-details.html:109
+msgid "Payment details"
+msgstr "Platební detaily"
+
+#: www/views/modals/paypro.html:6
+msgid "Payment request"
+msgstr "Požadavek na platbu"
+
+#: www/views/mercadoLibreCards.html:22
+#: www/views/modals/mercadolibre-card-details.html:39
+msgid "Pending"
+msgstr "Čekající"
+
+#: www/views/proposals.html:4
+msgid "Pending Proposals"
+msgstr "Čekající návrhy"
+
+#: www/views/preferencesDeleteWallet.html:13
+msgid "Permanently delete this wallet."
+msgstr "Trvalé smazání této peněženky"
+
+#: src/js/services/profileService.js:388
+msgid "Personal Wallet"
+msgstr "Osobní peněženka"
+
+#: www/views/backup.html:18
+msgid "Please carefully write down this phrase."
+msgstr "Prosím zapište si pečlivě tuto frázi"
+
+#: www/views/tab-scan.html:20
+msgid "Please connect a camera to get started."
+msgstr "Prosím připojte kameru pro start"
+
+#: src/js/controllers/import.js:260
+msgid "Please enter the recovery phrase"
+msgstr "Prosím vložte obnovovací frázi"
+
+#: src/js/controllers/create.js:168
+#: src/js/controllers/join.js:135
+msgid "Please enter the wallet recovery phrase"
+msgstr "Prosím vložte frázi obnovovací frázi"
+
+#: www/views/modals/pin.html:9
+msgid "Please enter your PIN"
+msgstr "Prosím vložte svůj PIN"
+
+#: www/views/backup.html:46
+msgid "Please tap each word in the correct order."
+msgstr "Prosím poklepejte na každé slovo ve správném pořadí"
+
+#: src/js/services/bwcError.js:101
+msgid "Please upgrade Copay to perform this action"
+msgstr "Prosím proveďte upgrade Copay pro provedení této akce"
+
+#: src/js/controllers/import.js:222
+msgid "Please, select your backup file"
+msgstr "Prosím, vyberte soubor vaší zálohy"
+
+#: www/views/bitpayCard.html:81
+msgid "Pre-Auth Holds"
+msgstr "Před-autentizační držení"
+
+#: www/views/tab-settings.html:40
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: src/js/services/onGoingProcess.js:38
+msgid "Preparing addresses..."
+msgstr "Příprava adres..."
+
+#: src/js/controllers/export.js:198
+msgid "Preparing backup..."
+msgstr "Připrava zálohy..."
+
+#: src/js/routes.js:1240
+msgid "Press again to exit"
+msgstr "Stiskněte znovu pro výstup"
+
+#: src/js/services/feeService.js:11
+msgid "Priority"
+msgstr "Priorita"
+
+#: www/views/includes/incomingDataMenu.html:80
+msgid "Private Key"
+msgstr "Soukromý klíč"
+
+#: src/js/controllers/paperWallet.js:137
+msgid "Private key encrypted. Enter password"
+msgstr "Soukromý klíč je zašifrovaný. Zadejte heslo"
+
+#: src/js/services/bwcError.js:35
+msgid "Private key is encrypted, cannot sign"
+msgstr "Soukromý klíč je zašifrovaný, nemohu podepsat"
+
+#: www/views/includes/walletActivity.html:51
+msgid "Proposal Accepted"
+msgstr "Akceptované návrhy"
+
+#: src/js/controllers/modals/txpDetails.js:55
+#: src/js/controllers/tx-details.js:61
+#: www/views/confirm.html:127
+msgid "Proposal Created"
+msgstr "Vytvořené návrhy"
+
+#: www/views/includes/walletActivity.html:27
+msgid "Proposal Deleted"
+msgstr "Smazané návrhy"
+
+#: www/views/includes/walletActivity.html:35
+msgid "Proposal Rejected"
+msgstr "Zamítnuté návrhy"
+
+#: www/views/walletDetails.html:177
+msgid "Proposals"
+msgstr "Návrhy"
+
+#: src/js/controllers/buyAmazon.js:281
+msgid "Purchase Amount is limited to {{limitPerDay}} {{currency}} per day"
+msgstr "Zakoupené množství je omezeno {{limitPerDay}} {{currency}} na den"
+
+#: src/js/controllers/buyMercadoLibre.js:280
+msgid "Purchase amount must be a value between 50 and 2000"
+msgstr "Zakoupené množství musí být hodnota mezi 50 a 2000"
+
+#: www/views/onboarding/notifications.html:3
+msgid "Push Notifications"
+msgstr "Push notifikace"
+
+#: www/views/preferencesNotifications.html:17
+msgid "Push notifications for {{appName}} are currently disabled. Enable them in the Settings app."
+msgstr "Push notifikace pro {{appName}} jsou momentálně vypnuté. Zapněte je v Nastavení aplikace"
+
+#: www/views/export.html:17
+msgid "QR Code"
+msgstr "QR kód"
+
+#: www/views/onboarding/disclaimer.html:13
+msgid "Quick review!"
+msgstr "Rychlé review"
+
+#: src/js/controllers/create.js:79
+#: src/js/controllers/join.js:65
+msgid "Random"
+msgstr "Náhodné"
+
+#: www/views/feedback/rateApp.html:14
+msgid "Rate on the app store"
+msgstr "Ohodnoťte app store"
+
+#: www/views/addresses.html:52
+msgid "Read less"
+msgstr "Číst méně"
+
+#: www/views/addresses.html:51
+msgid "Read more"
+msgstr "Číst více"
+
+#: www/views/tab-receive.html:3
+#: www/views/tabs.html:7
+msgid "Receive"
+msgstr "Obdržet"
+
+#: www/views/customAmount.html:46
+msgid "Receive in"
+msgstr "Obdrženo v"
+
+#: www/views/includes/walletHistory.html:24
+#: www/views/tx-details.html:18
+msgid "Received"
+msgstr "Obdrženo"
+
+#: src/js/controllers/tx-details.js:113
+msgid "Received Funds"
+msgstr "Obdržené vklady"
+
+#: www/views/includes/walletHistory.html:57
+#: www/views/tx-details.html:24
+msgid "Receiving"
+msgstr "Obdržení"
+
+#: www/views/bitpayCard.html:60
+#: www/views/includes/walletHistory.html:3
+msgid "Recent"
+msgstr "Nedávné"
+
+#: www/views/advancedSettings.html:20
+msgid "Recent Transaction Card"
+msgstr "Nedávná transakční karta"
+
+#: www/views/activity.html:4
+#: www/views/tab-home.html:58
+msgid "Recent Transactions"
+msgstr "Nedávné transakce"
+
+#: www/views/amount.html:18
+#: www/views/tab-send.html:9
+msgid "Recipient"
+msgstr "Příjemce"
+
+#: www/views/modals/txp-details.html:62
+msgid "Recipients"
+msgstr "Příjemci"
+
+#: www/views/import.html:12
+msgid "Recovery phrase"
+msgstr "Obnovovací fráze"
+
+#: www/views/walletDetails.html:116
+#: www/views/walletDetails.html:36
+msgid "Recreate"
+msgstr "Znovu-vytvořit"
+
+#: src/js/services/onGoingProcess.js:26
+msgid "Recreating Wallet..."
+msgstr "Znovuvytvoření peněženky..."
+
+#: www/views/modals/mercadolibre-card-details.html:22
+msgid "Redeem now"
+msgstr "Uhradit nyní"
+
+#: src/js/controllers/modals/txpDetails.js:57
+#: src/js/controllers/tx-details.js:63
+msgid "Rejected"
+msgstr "Odmítnuto"
+
+#: src/js/services/onGoingProcess.js:27
+msgid "Rejecting payment proposal"
+msgstr "Odmítnout návrh platby"
+
+#: www/views/preferencesAbout.html:9
+msgid "Release information"
+msgstr "Innformace k vydání"
+
+#: www/views/addressbook.view.html:36
+#: www/views/modals/mercadolibre-card-details.html:69
+msgid "Remove"
+msgstr "Odstranit"
+
+#: src/js/controllers/preferencesBitpayServices.js:7
+msgid "Remove BitPay Account?"
+msgstr "Odstranit BitPay účet"
+
+#: src/js/controllers/preferencesBitpayServices.js:19
+msgid "Remove BitPay Card?"
+msgstr "Odstranit BitPay kartu?"
+
+#: src/js/controllers/preferencesBitpayServices.js:8
+msgid "Removing your BitPay account will remove all associated BitPay account data from this device. Are you sure you would like to remove your BitPay Account ({{email}}) from this device?"
+msgstr "Odstranění vašeho BitPay účtu odstraní všechna data spojená s BitPay účtem z tohoto zařízení. Jste si jistý, že chcete odstranit BitPay účet ({{email}}) z tohoto zařízení?"
+
+#: www/views/join.html:113
+#: www/views/join.html:121
+#: www/views/tab-create-personal.html:84
+#: www/views/tab-create-personal.html:92
+#: www/views/tab-create-shared.html:113
+#: www/views/tab-create-shared.html:121
+#: www/views/tab-export-file.html:17
+msgid "Repeat password"
+msgstr "Opakujte heslo"
+
+#: www/views/tab-export-file.html:16
+msgid "Repeat the password"
+msgstr "Opakujte heslo"
+
+#: www/views/preferences.html:55
+msgid "Request Fingerprint"
+msgstr "Požadavek otisk prstu"
+
+#: www/views/tab-receive.html:45
+msgid "Request Specific amount"
+msgstr "Požadavek konkrétního množství"
+
+#: www/views/preferences.html:42
+msgid "Request Spending Password"
+msgstr "Požadavek hesla k platbám"
+
+#: www/views/tab-create-shared.html:42
+msgid "Required number of signatures"
+msgstr "Požadovaný počet podpisů"
+
+#: www/views/onboarding/welcome.html:9
+msgid "Restore from backup"
+msgstr "Obnovit ze zálohy"
+
+#: src/js/services/onGoingProcess.js:29
+msgid "Retrieving inputs information"
+msgstr "Načítání vstupních informací"
+
+#: src/js/controllers/onboarding/tour.js:56
+msgid "Retry"
+msgstr "Zkusit znovu"
+
+#: www/views/tab-scan.html:23
+msgid "Retry Camera"
+msgstr "Zkusit znovu kameru"
+
+#: www/views/addressbook.add.html:56
+#: www/views/includes/note.html:9
+#: www/views/preferencesAlias.html:21
+#: www/views/preferencesBwsUrl.html:25
+#: www/views/preferencesNotifications.html:46
+msgid "Save"
+msgstr "Uložit"
+
+#: www/views/tab-scan.html:3
+#: www/views/tabs.html:11
+msgid "Scan"
+msgstr "Skenovat"
+
+#: www/views/tab-scan.html:15
+msgid "Scan QR Codes"
+msgstr "Skenovat QR kódy"
+
+#: www/views/addresses.html:31
+msgid "Scan addresses for funds"
+msgstr "Skenovat adresu pro vklady"
+
+#: www/views/modals/fingerprintCheck.html:11
+msgid "Scan again"
+msgstr "Znovu skenovat"
+
+#: src/js/services/fingerprintService.js:56
+msgid "Scan your fingerprint please"
+msgstr "Oskenujte váš otisk prstu prosím"
+
+#: src/js/services/onGoingProcess.js:30
+msgid "Scanning Wallet funds..."
+msgstr "Scanování vkladů peněženky..."
+
+#: www/views/includes/screenshotWarningModal.html:7
+msgid "Screenshots are not secure"
+msgstr "Screenshoty nejsou bezpečné"
+
+#: www/views/modals/search.html:6
+msgid "Search Transactions"
+msgstr "Shledejte Transakce"
+
+#: www/views/tab-send.html:13
+msgid "Search or enter particl address"
+msgstr "Hledejte nebo vložže particl adresu"
+
+#: www/views/modals/search.html:16
+msgid "Search transactions"
+msgstr "Hledání transakcí"
+
+#: www/views/preferencesAltCurrency.html:14
+msgid "Search your currency"
+msgstr "Hledání vaši měny"
+
+#: www/views/preferences.html:30
+msgid "Security"
+msgstr "Bezpečnost"
+
+#: www/views/modals/mercadolibre-card-details.html:64
+msgid "See invoice"
+msgstr "Prohlídnutí faktur"
+
+#: www/views/tab-import-file.html:7
+msgid "Select a backup file"
+msgstr "Zvolte si soubor zálohy"
+
+#: src/js/controllers/tab-receive.js:133
+msgid "Select a wallet"
+msgstr "Výběr peněženky"
+
+#: www/views/modals/paypro.html:38
+msgid "Self-signed Certificate"
+msgstr "Samo-podepsaný certifikát"
+
+#: src/js/services/onGoingProcess.js:41
+msgid "Selling Particl..."
+msgstr "Posílání Particl..."
+
+#: www/views/feedback/send.html:13
+#: www/views/feedback/send.html:43
+#: www/views/tab-send.html:3
+#: www/views/tabs.html:15
+msgid "Send"
+msgstr "Poslat"
+
+#: www/views/feedback/send.html:3
+#: www/views/tab-settings.html:29
+msgid "Send Feedback"
+msgstr "Poslat Názor"
+
+#: www/views/addressbook.view.html:31
+msgid "Send Money"
+msgstr "Poslat peníze"
+
+#: www/views/allAddresses.html:19
+msgid "Send addresses by email"
+msgstr "Poslat adresy mailem"
+
+#: www/views/includes/logOptions.html:17
+#: www/views/tab-export-file.html:82
+msgid "Send by email"
+msgstr "Poslat mailem"
+
+#: src/js/controllers/confirm.js:151
+msgid "Send from"
+msgstr "Poslat z"
+
+#: www/views/includes/itemSelector.html:8
+msgid "Send max amount"
+msgstr "Poslat maximální množství"
+
+#: www/views/includes/incomingDataMenu.html:46
+msgid "Send payment to this address"
+msgstr "Poslané platby na tuto adresu"
+
+#: www/views/feedback/rateApp.html:17
+msgid "Send us feedback instead"
+msgstr "Pošlete nám namísto toho vás názor"
+
+#: www/views/confirm.html:15
+#: www/views/includes/txp.html:12
+#: www/views/modals/txp-details.html:19
+#: www/views/tx-details.html:23
+msgid "Sending"
+msgstr "Poslání"
+
+#: src/js/services/onGoingProcess.js:39
+msgid "Sending 2FA code..."
+msgstr "Poslání 2FA kódu..."
+
+#: src/js/services/onGoingProcess.js:36
+msgid "Sending feedback..."
+msgstr "Poslat ohlas..."
+
+#: www/views/confirm.html:16
+msgid "Sending maximum amount"
+msgstr "Poslání maximálního množství"
+
+#: src/js/services/onGoingProcess.js:31
+msgid "Sending transaction"
+msgstr "Poslání transakce"
+
+#: src/js/controllers/confirm.js:490
+msgid "Sending {{amountStr}} from your {{name}} wallet"
+msgstr "Poslání {{amountStr}} z vaší {{name}} peněženky"
+
+#: www/views/includes/walletHistory.html:42
+#: www/views/modals/tx-status.html:9
+#: www/views/topup.html:100
+#: www/views/tx-details.html:17
+msgid "Sent"
+msgstr "Poslat"
+
+#: src/js/controllers/tx-details.js:112
+msgid "Sent Funds"
+msgstr "Poslat vklady"
+
+#: src/js/services/bwcError.js:38
+msgid "Server response could not be verified"
+msgstr "Odpověď serveru nemůže být ověřena"
+
+#: src/js/controllers/buyAmazon.js:96
+#: src/js/controllers/buyMercadoLibre.js:96
+msgid "Service not available"
+msgstr "Služba není dostupná"
+
+#: www/views/includes/homeIntegrations.html:3
+msgid "Services"
+msgstr "Služby"
+
+#: www/views/preferencesLogs.html:3
+msgid "Session Log"
+msgstr "Session Log"
+
+#: www/views/preferencesAbout.html:35
+msgid "Session log"
+msgstr "Session Log"
+
+#: www/views/tab-export-file.html:10
+msgid "Set up a password"
+msgstr "Nastav heslo"
+
+#: src/js/controllers/preferencesFee.js:84
+msgid "Set your own fee in satoshis/byte"
+msgstr "Nastav svoje vlastní pplatky v satoshis/byte"
+
+#: www/views/tab-settings.html:3
+#: www/views/tabs.html:19
+msgid "Settings"
+msgstr "Nastavení"
+
+#: www/views/feedback/complete.html:17
+#: www/views/feedback/complete.html:26
+msgid "Share the love by inviting your friends."
+msgstr "Dej najevo dobrotu pozváním svých přátel."
+
+#: www/views/copayers.html:20
+msgid "Share this invitation with your copayers"
+msgstr "Sdílej tuto pozvánku se svými spoluplátci"
+
+#: src/js/controllers/feedback/complete.js:5
+#: www/views/tab-settings.html:36
+msgid "Share {{appName}}"
+msgstr "Sdílej {{appName}}"
+
+#: www/views/tab-import-hardware.html:24
+msgid "Shared Wallet"
+msgstr "Sdílená peněženka"
+
+#: www/views/preferencesExternal.html:34
+msgid "Show Recovery Phrase"
+msgstr "Ukázat obnovovací frázi"
+
+#: www/views/tab-receive.html:34
+msgid "Show address"
+msgstr "Ukázat adresy"
+
+#: www/views/join.html:45
+#: www/views/tab-create-personal.html:25
+#: www/views/tab-create-shared.html:54
+#: www/views/tab-export-file.html:24
+#: www/views/tab-import-file.html:27
+#: www/views/tab-import-hardware.html:30
+#: www/views/tab-import-phrase.html:32
+msgid "Show advanced options"
+msgstr "Ukázat pokročilé volby"
+
+#: www/views/tab-send.html:37
+msgid "Show particl address"
+msgstr "Ukázat particl adresy"
+
+#: www/views/tab-send.html:59
+msgid "Show more"
+msgstr "Ukázat další"
+
+#: src/js/services/bwcError.js:104
+msgid "Signatures rejected by server"
+msgstr "Podpis odmítnutý serverem"
+
+#: src/js/services/onGoingProcess.js:32
+msgid "Signing transaction"
+msgstr "Podepsání transakce"
+
+#: www/views/onboarding/backupRequest.html:6
+msgid "Since only you control your money, you’ll need to save your backup phrase in case this app is deleted."
+msgstr "Protože máte kontrolu nad svými penězi, budete potřebovat uložit zálohu fráze pro případ smazání aplikace."
+
+#: www/views/tab-create-personal.html:120
+#: www/views/tab-create-shared.html:149
+msgid "Single Address Wallet"
+msgstr "Peněženka s jednou adresou"
+
+#: www/views/onboarding/collectEmail.html:40
+#: www/views/onboarding/tour.html:11
+msgid "Skip"
+msgstr "Přeskočit"
+
+#: src/js/controllers/modals/txpDetails.js:34
+msgid "Slide"
+msgstr "Projeďte"
+
+#: www/views/buyAmazon.html:96
+#: www/views/buyMercadoLibre.html:83
+msgid "Slide to buy"
+msgstr "Projeďte pro nákup"
+
+#: src/js/controllers/create.js:83
+#: src/js/controllers/join.js:68
+msgid "Specify Recovery Phrase..."
+msgstr "Urči obnovovací frázi"
+
+#: src/js/services/bwcError.js:92
+msgid "Spend proposal is not accepted"
+msgstr "Návrh platby není akceptován"
+
+#: src/js/services/bwcError.js:95
+msgid "Spend proposal not found"
+msgstr "Návrh platby není nalezen"
+
+#: src/js/services/bwcError.js:137
+msgid "Spending Password needed"
+msgstr "Je potřeba heslo k platbám"
+
+#: www/views/walletDetails.html:161
+msgid "Spending this balance will need significant Particl network fees"
+msgstr "Poslání tohoto zůstatku bude potřebovat významný síťový Particl poplatek"
+
+#: www/views/tab-send.html:28
+msgid "Start sending particl"
+msgstr "Začít posílat particl"
+
+#: www/views/lockSetup.html:3
+msgid "Startup Lock"
+msgstr "Startup Zámek"
+
+#: www/views/mercadoLibreCards.html:21
+#: www/views/modals/mercadolibre-card-details.html:42
+msgid "Still pending"
+msgstr "Stále čekám"
+
+#: www/views/topup.html:101
+msgid "Success"
+msgstr "Úspěch"
+
+#: src/js/services/feeService.js:14
+msgid "Super Economy"
+msgstr "Super Ekonomika"
+
+#: www/views/paperWallet.html:7
+msgid "Sweep"
+msgstr "Vyčistit"
+
+#: www/views/includes/incomingDataMenu.html:89
+#: www/views/paperWallet.html:3
+msgid "Sweep paper wallet"
+msgstr "Vyčistit papírovou peněženku"
+
+#: src/js/services/onGoingProcess.js:33
+msgid "Sweeping Wallet..."
+msgstr "Vyčistit papírovou peněženku"
+
+#: www/views/preferencesDeleteWallet.html:16
+msgid "THIS ACTION CANNOT BE REVERSED"
+msgstr "TATO AKCE NEMŮŽE BÝT ODVOLÁNA"
+
+#: www/views/onboarding/welcome.html:5
+msgid "Take control of your money,<br>get started with particl."
+msgstr "Převezměte kontrolu nad vašimi penězi, <br>začněte with particl."
+
+#: www/views/walletDetails.html:139
+#: www/views/walletDetails.html:59
+msgid "Tap and hold to show"
+msgstr "Poklepte na držte pro ukázání"
+
+#: www/views/walletDetails.html:111
+#: www/views/walletDetails.html:31
+msgid "Tap to retry"
+msgstr "Poklepte na znovu"
+
+#: www/views/termsOfUse.html:3
+msgid "Terms Of Use"
+msgstr "Podmínky Užití"
+
+#: www/views/modals/terms.html:3
+#: www/views/onboarding/disclaimer.html:29
+#: www/views/onboarding/disclaimer.html:43
+#: www/views/preferencesAbout.html:30
+msgid "Terms of Use"
+msgstr "Podmínky užití"
+
+#: www/views/tab-create-personal.html:116
+#: www/views/tab-import-phrase.html:65
+msgid "Testnet"
+msgstr "Testnet"
+
+#: www/views/includes/incomingDataMenu.html:61
+msgid "Text"
+msgstr "Text"
+
+#: src/js/controllers/feedback/send.js:27
+#: src/js/controllers/feedback/send.js:76
+#: www/views/feedback/complete.html:20
+#: www/views/feedback/rateApp.html:4
+msgid "Thank you!"
+msgstr "Děkujeme vám!"
+
+#: src/js/controllers/feedback/send.js:72
+msgid "Thanks!"
+msgstr "Děkujeme!"
+
+#: src/js/controllers/feedback/send.js:73
+msgid "That's exciting to hear. We'd love to earn that fifth star from you – how could we improve your experience?"
+msgstr "Je to vzrušující to slyšet. Rádi bychom si od vás vysloužili pátou hvězdu - jak bychom mohli vylepšít vaši zkušenosti? "
+
+#: src/js/services/ledger.js:152
+msgid "The Ledger Chrome application is not installed"
+msgstr "Chrome aplikace The Ledger není nainstalována"
+
+#: www/views/modals/wallet-balance.html:55
+msgid "The amount of particl immediately spendable from this wallet."
+msgstr "Množství particlů k okamžité útratě z vaší peněženky."
+
+#: www/views/modals/wallet-balance.html:93
+msgid "The amount of particl stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
+msgstr "Množství particl uložených v této peněžence je přiděleno jako vstup vašich čekajících návrhů transakcí. To množství je určeno výstupem neutracených trasakcí spojených s toutu peněženkou a mmůže být vyšší než je aktuální množství spojené s vašimi čekajícími transakčními návrhy."
+
+#: www/views/modals/wallet-balance.html:74
+msgid "The amount of particl stored in this wallet with less than 1 blockchain confirmation."
+msgstr "Množství particl uložených v této peněžence s méně než jedním potvrzením na blockchainu."
+
+#: www/views/tab-import-phrase.html:5
+msgid "The derivation path"
+msgstr "Odvozená cesta"
+
+#: www/views/onboarding/tour.html:37
+msgid "The exchange rate changes with the market."
+msgstr "Směnná sazba se mění v závislosti na trhu."
+
+#: www/views/preferencesFee.html:12
+msgid "The higher the fee, the greater the incentive a miner has to include that transaction in a block. Current fees are determined based on network load and the selected policy."
+msgstr "Čím vyšší je poplatek, tím vyšší je podnět těžaři, aby zahrnul tuto tranaskci v bloku. Stávající poplatky jsou určeny zátěží sítě a zvolené politiky."
+
+#: www/views/addresses.html:51
+msgid "The maximum number of consecutive unused addresses (20) has been reached. When one of your unused addresses receives a payment, a new address will be generated and shown in your Receive tab."
+msgstr "Maximální počet po sobě jdoucích nepoužitých adres (20) byl dosažen. Když jedna z vašich nepoužitých adres obdrží platbu, nová adresa bude vygenerována a ukáže se na stráce Přijáte."
+
+#: src/js/controllers/onboarding/terms.js:21
+msgid "The official English Terms of Service are available on the BitPay website."
+msgstr "Oficiální Podmínky užití služby v angličtině jsou dostupné na BitPay stránkách"
+
+#: www/views/tab-import-phrase.html:4
+msgid "The password of the recovery phrase (if set)"
+msgstr "Heslo obnovovací fráze (pokud bylo nastaveno)"
+
+#: src/js/services/walletService.js:1140
+msgid "The payment was created but could not be completed. Please try again from home screen"
+msgstr "Platba byla vytvořena, ale nemůže být dokončena. Prosím zkuste to znovu z domovské obrazovky"
+
+#: www/views/modals/txp-details.html:26
+msgid "The payment was removed by creator"
+msgstr "Platba byla odstraněna zadavatelem"
+
+#: www/views/join.html:88
+#: www/views/tab-create-personal.html:61
+#: www/views/tab-create-shared.html:90
+#: www/views/tab-import-phrase.html:40
+msgid "The recovery phrase could require a password to be imported"
+msgstr "Obnovovací fráze vyžaduje, aby bylo importováno heslo"
+
+#: src/js/services/bwcError.js:56
+msgid "The request could not be understood by the server"
+msgstr "Server nerozumí tomuto požadavku"
+
+#: www/views/addresses.html:52
+msgid "The restore process will stop when 20 addresses are generated in a row which contain no funds. To safely generate more addresses, make a payment to one of the unused addresses which has already been generated."
+msgstr "Proces obnovy skončí až bude vygenerováno 20 adres po sobě, které neobsahují žádné vklady. Pro bezpečné vygenerování více adres, proveďte platbu na jednu z nepoužitých adres, které byly právě vygenerovány."
+
+#: src/js/services/bwcError.js:98
+msgid "The spend proposal is not pending"
+msgstr "Návrh na platbu není čekající"
+
+#: www/views/modals/wallet-balance.html:36
+msgid "The total amount of particl stored in this wallet."
+msgstr "Celkové množství particl uložených v této peněžence."
+
+#: www/views/preferencesHistory.html:27
+msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
+msgstr "Historie transakční a každé nové příchozí transakce jsou uloženy v aplikaci. Tato vlastnost ji vyčistí a synchronizuje znovu ze serveru."
+
+#: www/views/tab-import-phrase.html:6
+msgid "The wallet service URL"
+msgstr "URL služby peněženky"
+
+#: src/js/controllers/tab-home.js:38
+msgid "There is a new version of {{appName}} available"
+msgstr "Je k dispozici nová verze {{appName}}"
+
+#: src/js/controllers/import.js:213
+#: src/js/controllers/import.js:237
+#: src/js/controllers/import.js:317
+msgid "There is an error in the form"
+msgstr "Ve formuláři je chyba"
+
+#: src/js/controllers/feedback/send.js:61
+#: src/js/controllers/feedback/send.js:65
+msgid "There's obviously something we're doing wrong."
+msgstr "Očividně děláme něco špatně."
+
+#: src/js/controllers/feedback/rateCard.js:38
+msgid "This app is fantastic!"
+msgstr "Tato aplikace je fantastická!"
+
+#: www/views/onboarding/tour.html:47
+msgid "This app stores your particl with cutting-edge security."
+msgstr "Tato aplikace uchovává particl pomocí nemodernější bezpečnosti."
+
+#: src/js/controllers/confirm.js:468
+msgid "This particl payment request has expired."
+msgstr "Tento požadavek na particl platbu vypršel."
+
+#: www/views/join.html:130
+#: www/views/tab-create-personal.html:101
+#: www/views/tab-create-shared.html:130
+msgid "This password cannot be recovered. If the password is lost, there is no way you could recover your funds."
+msgstr "Toto heslo nemůže být obnoveno. Pokud bude heslo ztraceno, neexistuje způsob jak byste mohli obnovit vaše vklady."
+
+#: www/views/backup.html:24
+msgid "This recovery phrase was created with a password. To recover this wallet both the recovery phrase and password are needed."
+msgstr "Tato obnovovací fráze byla vytvořena s heslem. K obnovení této peněženky je potřeba obojí - jak obnovovací fráze a heslo"
+
+#: www/views/tx-details.html:93
+msgid "This transaction amount is too small compared to current Particl network fees. Spending these funds will need a Particl network fee cost comparable to the funds itself."
+msgstr "Toto množství v transakci je příliž malé v porovnání z aktuálním poplatkem v síti Particl. Poslání toho vkladu bude vyžadovat poplatek v síti Partil srovnatelný se samotným vkladem."
+
+#: www/views/tx-details.html:89
+msgid "This transaction could take a long time to confirm or could be dropped due to the low fees set by the sender"
+msgstr "Tato transakce může vzít více času na potvrzení nebo by mohla být zahozena kvůli nízkým poplatkům nastaveným odesílatelem"
+
+#: www/views/walletDetails.html:115
+#: www/views/walletDetails.html:35
+msgid "This wallet is not registered at the given Bitcore Wallet Service (BWS). You can recreate it from the local information."
+msgstr "Tato peněženka není registrována na dané Bitcore Wallet Službě (BWS). Můžete ji znovu vytvořit z lokálních ifnormací."
+
+#: www/views/modals/txp-details.html:138
+#: www/views/tx-details.html:121
+msgid "Timeline"
+msgstr "Časová osa"
+
+#: www/views/confirm.html:31
+#: www/views/includes/output.html:2
+#: www/views/modals/txp-details.html:111
+#: www/views/modals/txp-details.html:53
+#: www/views/tx-details.html:41
+#: www/views/tx-details.html:53
+msgid "To"
+msgstr "Komu"
+
+#: www/views/tab-send.html:32
+msgid "To get started, buy particl or share your address. You can receive bitcoin from any wallet or service."
+msgstr "Abyste mohli začít, kupte particl nebo sdílejte vaši adresu. Můžete obdržet bitcoiny z jakékoli peněženky nebo služby."
+
+#: www/views/tab-send.html:33
+msgid "To get started, you'll need to create a particl wallet and get some bitcoin."
+msgstr "Abyste mohli začít, budete muset vytvořit particl peněženku a vložit nějaké bitcoiny."
+
+#: src/js/services/bitpayAccountService.js:73
+msgid "To {{reason}} you must first add your BitPay account - {{email}}"
+msgstr "Kvůli {{reason}} můsíte nejprve přidat váš BitPay účet - {{email}}"
+
+#: src/js/services/onGoingProcess.js:48
+msgid "Top up in progress..."
+msgstr "Probíhá dobití..."
+
+#: src/js/controllers/topup.js:205
+msgid "Top up {{amountStr}} to debit card ({{cardLastNumber}})"
+msgstr "Dobijte {{amountStr}} na debetní kartu ({{cardLastNumber}})"
+
+#: www/views/buyAmazon.html:61
+#: www/views/buyMercadoLibre.html:60
+#: www/views/modals/wallet-balance.html:23
+#: www/views/topup.html:70
+msgid "Total"
+msgstr "Celkem"
+
+#: www/views/walletDetails.html:184
+msgid "Total Locked Balance"
+msgstr "Celkový zamčený zůstatek"
+
+#: www/views/tab-create-shared.html:33
+msgid "Total number of copayers"
+msgstr "Celkový počet spoluplátců"
+
+#: www/views/addresses.html:81
+msgid "Total wallet inputs"
+msgstr "Vstupy peněženky celkem"
+
+#: src/js/services/fingerprintService.js:63
+#: src/js/services/fingerprintService.js:68
+msgid "Touch ID Failed"
+msgstr "Touch ID selhalo"
+
+#: src/js/controllers/tx-details.js:11
+msgid "Transaction"
+msgstr "Transakce"
+
+#: www/views/confirm.html:128
+msgid "Transaction Created"
+msgstr "Vytvořené transakce"
+
+#: www/views/preferencesAdvanced.html:29
+#: www/views/preferencesHistory.html:3
+msgid "Transaction History"
+msgstr "Historie transakcí"
+
+#: src/js/services/bwcError.js:83
+msgid "Transaction already broadcasted"
+msgstr "Transakce byla již vysílána"
+
+#: src/js/controllers/buyAmazon.js:306
+#: src/js/controllers/buyMercadoLibre.js:299
+#: src/js/controllers/topup.js:279
+msgid "Transaction has not been created"
+msgstr "Transakce nebyla vytvořena"
+
+#: www/views/topup.html:104
+msgid "Transaction initiated"
+msgstr "Transakce inicializována"
+
+#: src/js/controllers/tx-details.js:102
+msgid "Transaction not available at this time"
+msgstr "Transakce není momentálně dostupná"
+
+#: src/js/controllers/activity.js:45
+#: src/js/controllers/tab-home.js:174
+msgid "Transaction not found"
+msgstr "Transakce není nalezena"
+
+#: www/views/modals/chooseFeeLevel.html:55
+msgid "Transactions without fee are not supported."
+msgstr "Transakce bez poplatku nejsou podporovány."
+
+#: src/js/controllers/paperWallet.js:110
+msgid "Transfer to"
+msgstr "Převést na"
+
+#: www/views/tab-send.html:67
+msgid "Transfer to Wallet"
+msgstr "Převést do peněženky"
+
+#: www/views/modals/pin.html:13
+msgid "Try again in {{expires}}"
+msgstr "Zkusit znova za {{expires}}"
+
+#: www/views/bitpayCardIntro.html:18
+msgid "Turn particl into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
+msgstr "Převeďte particl na dolary, přiložte Visu<sup>&reg;</sup> kdekoli je přijímána."
+
+#: www/views/tab-import-phrase.html:17
+msgid "Type the Recovery Phrase (usually 12 words)"
+msgstr "Napište frázi obnovení (obvykle 12 slov)"
+
+#: src/js/controllers/backup.js:75
+msgid "Uh oh..."
+msgstr "Uh oh..."
+
+#: www/views/tx-details.html:100
+msgid "Unconfirmed"
+msgstr "Nepotvrzeno"
+
+#: www/views/preferencesUnit.html:4
+msgid "Unit"
+msgstr "Jednotka"
+
+#: www/views/walletDetails.html:178
+msgid "Unsent transactions"
+msgstr "Neodeslané transakce"
+
+#: www/views/addresses.html:39
+msgid "Unused Addresses"
+msgstr "Nevyužité adresy"
+
+#: www/views/addresses.html:50
+msgid "Unused Addresses Limit"
+msgstr "Nevyužitý limit adres"
+
+#: src/js/controllers/tab-home.js:146
+msgid "Update Available"
+msgstr "Aktualizce dostupnosti"
+
+#: www/views/proposals.html:14
+msgid "Updating pending proposals. Please stand by"
+msgstr "Aktualizace čekajících návrhů. Prosím vyčkejte."
+
+#: www/views/walletDetails.html:210
+msgid "Updating transaction history. Please stand by."
+msgstr "Aktualizuji transakční historii. Prosím počkejte."
+
+#: www/views/activity.html:14
+msgid "Updating... Please stand by"
+msgstr "Aktualizuji...prosím počkejte"
+
+#: src/js/services/feeService.js:10
+msgid "Urgent"
+msgstr "Urgentní"
+
+#: www/views/advancedSettings.html:11
+msgid "Use Unconfirmed Funds"
+msgstr "Použít nepotvrzený vklad"
+
+#: src/js/services/onGoingProcess.js:34
+msgid "Validating recovery phrase..."
+msgstr "Validace fráze obnovení..."
+
+#: www/views/modals/fingerprintCheck.html:4
+msgid "Verify your identity"
+msgstr "Ověřte vaši identitu"
+
+#: www/views/preferencesAbout.html:14
+#: www/views/preferencesExternal.html:25
+msgid "Version"
+msgstr "Verze"
+
+#: www/views/tab-export-file.html:69
+msgid "View"
+msgstr "Pohled"
+
+#: www/views/addresses.html:34
+msgid "View All Addresses"
+msgstr "Prohlédnout všechny adresy"
+
+#: src/js/controllers/onboarding/terms.js:20
+msgid "View Terms of Service"
+msgstr "Prohlédnout si Podmínky služby"
+
+#: src/js/controllers/bitpayCard.js:122
+#: src/js/controllers/tx-details.js:174
+msgid "View Transaction on Insight"
+msgstr "Prohlédnout transakci na Insight"
+
+#: src/js/controllers/tab-home.js:148
+msgid "View Update"
+msgstr "Prohlédnout aktualizaci"
+
+#: www/views/tx-details.html:147
+msgid "View on blockchain"
+msgstr "Prohlédnout blockchain"
+
+#: www/views/mercadoLibre.html:26
+msgid "Visit mercadolivre.com.br &rarr;"
+msgstr "Navštivte mercadolivre.com.br &rarr;"
+
+#: www/views/walletDetails.html:170
+msgid "WARNING: Key derivation is not working on this device/wallet. Actions cannot be performed on this wallet."
+msgstr "VAROVÁNÍ: Odvozený klíč nefunguje na tomto zařízení/peněžence. Akce nemůže být provedena na této peněžence. "
+
+#: www/views/tab-export-file.html:45
+msgid "WARNING: Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so <b>funds will not be accessible from the export</b>."
+msgstr "VAROVÁNÍ: Nezahrnutý soukromý klíč dovoluje ověřit zůstatek peněženky, transakční historii a vytvořit návrhy plateb z exportu. Nicméně nedovolí schvílení (podepsání) návrhu, takže <b>vklady nebudou dostupné z exportu</b>"
+
+#: www/views/tab-export-file.html:36
+msgid "WARNING: The private key of this wallet is not available. The export allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so <b>funds will not be accessible from the export</b>."
+msgstr "VAROVÁNÍ: Privátní klíč k této peněžence není dostupný. Ten vyexportovaný umožňuje ověřit zůstatek peněženky, transakční historii a vytvořit návrhy plateb z exportu. Nicméně nedovolí schválit (podepsat) návrhy plateb, takže <b>vklady nebudou dostupné z exportu</b>."
+
+#: www/views/modals/paypro.html:42
+msgid "WARNING: UNTRUSTED CERTIFICATE"
+msgstr "VAROVÁNÍ: NEDŮVĚRYHODNÝ CERTIFIKÁT"
+
+#: src/js/services/onGoingProcess.js:15
+msgid "Waiting for Ledger..."
+msgstr "Čekám na Ledger..."
+
+#: src/js/services/onGoingProcess.js:16
+msgid "Waiting for Trezor..."
+msgstr "Čekám na Trezor..."
+
+#: www/views/copayers.html:48
+msgid "Waiting for copayers"
+msgstr "Čekám na spoluplátce"
+
+#: www/views/copayers.html:53
+msgid "Waiting..."
+msgstr "Čekám..."
+
+#: www/views/addresses.html:3
+#: www/views/preferencesAdvanced.html:17
+msgid "Wallet Addresses"
+msgstr "Adresa peněženky"
+
+#: www/views/preferencesColor.html:4
+msgid "Wallet Color"
+msgstr "Barva peněženky"
+
+#: www/views/preferencesInformation.html:23
+msgid "Wallet Configuration (m-n)"
+msgstr "Konfigurace peněženky (m-n)"
+
+#: www/views/onboarding/collectEmail.html:5
+msgid "Wallet Created"
+msgstr "Peněženka vytvořena"
+
+#: www/views/preferencesInformation.html:17
+msgid "Wallet Id"
+msgstr "Id peněženky"
+
+#: www/views/preferencesAdvanced.html:13
+#: www/views/preferencesInformation.html:3
+msgid "Wallet Information"
+msgstr "Informace k peněžence"
+
+#: www/views/addresses.html:76
+msgid "Wallet Inputs"
+msgstr "Vstupy peněženky"
+
+#: www/views/join.html:26
+msgid "Wallet Invitation"
+msgstr "Pozvánka peněženky"
+
+#: www/views/join.html:57
+#: www/views/tab-create-personal.html:36
+#: www/views/tab-create-shared.html:65
+msgid "Wallet Key"
+msgstr "Klíč peněženky"
+
+#: www/views/preferencesAlias.html:4
+msgid "Wallet Name"
+msgstr "Název peněženky"
+
+#: www/views/preferencesInformation.html:11
+msgid "Wallet Name (at creation)"
+msgstr "Název peněženky (při vytvoření)"
+
+#: www/views/preferencesInformation.html:29
+msgid "Wallet Network"
+msgstr "Síť peněženky"
+
+#: www/views/join.html:74
+#: www/views/tab-create-personal.html:48
+#: www/views/tab-create-shared.html:77
+msgid "Wallet Recovery Phrase"
+msgstr "Fráze obnovení peněženky"
+
+#: src/js/services/bwcError.js:26
+msgid "Wallet Recovery Phrase is invalid"
+msgstr "Fráze obnovení peněženky je neplatná"
+
+#: www/views/preferencesAdvanced.html:25
+#: www/views/tab-import-phrase.html:70
+msgid "Wallet Service URL"
+msgstr "URL služby peněženky"
+
+#: www/views/preferences.html:4
+msgid "Wallet Settings"
+msgstr "Nastavení Peněženky"
+
+#: www/views/tab-import-hardware.html:11
+#: www/views/tab-import-phrase.html:58
+msgid "Wallet Type"
+msgstr "Typ peněženky"
+
+#: src/js/services/bwcError.js:59
+msgid "Wallet already exists"
+msgstr "Peněženka již existuje"
+
+#: src/js/services/profileService.js:498
+msgid "Wallet already in {{appName}}"
+msgstr "Peněženka je již v {{appName}}"
+
+#: www/views/includes/walletActivity.html:6
+msgid "Wallet created"
+msgstr "Peněženka vytvořena"
+
+#: www/views/copayers.html:58
+msgid "Wallet incomplete and broken"
+msgstr "Peněženka je nekompletní a poškozená"
+
+#: src/js/services/bwcError.js:65
+msgid "Wallet is full"
+msgstr "Peněženka je plná"
+
+#: src/js/services/bwcError.js:125
+msgid "Wallet is locked"
+msgstr "Peněženka je uzamčena"
+
+#: src/js/services/bwcError.js:128
+msgid "Wallet is not complete"
+msgstr "Peněženka není dokončena"
+
+#: www/views/tab-create-personal.html:12
+#: www/views/tab-create-shared.html:12
+msgid "Wallet name"
+msgstr "Název peněženky"
+
+#: src/js/services/bwcError.js:131
+msgid "Wallet needs backup"
+msgstr "Peněženka potřebuje zazálohovat"
+
+#: www/views/tab-receive.html:59
+#: www/views/walletDetails.html:156
+msgid "Wallet not backed up"
+msgstr "Peněženka nezazálohována"
+
+#: src/js/services/bwcError.js:68
+msgid "Wallet not found"
+msgstr "Peněženka nenalezena"
+
+#: src/js/controllers/tab-home.js:220
+msgid "Wallet not registered"
+msgstr "Peněženka nezaregistrována"
+
+#: src/js/services/bwcError.js:29
+msgid "Wallet not registered at the wallet service. Recreate it from \"Create Wallet\" using \"Advanced Options\" to set your recovery phrase"
+msgstr "Peněženka není registrována ve službě peněženek. Obnovte ji z \"Vytvořit Peněženku\" použitím \"Pokročilé Volby\" pro nastavení vaší fráze obnovení"
+
+#: www/views/backup.html:11
+msgid "Wallet recovery phrase not available."
+msgstr "Fráze na obnovení peněženky není dostupná."
+
+#: src/js/services/bwcError.js:50
+msgid "Wallet service not found"
+msgstr "Služba peněženky nenalezena"
+
+#: www/views/tab-home.html:69
+msgid "Wallets"
+msgstr "Peněženky"
+
+#: www/views/tab-settings.html:102
+msgid "Wallets & Integrations"
+msgstr "Peněženky & Integrace"
+
+#: src/js/controllers/addressbookView.js:23
+#: src/js/controllers/modals/txpDetails.js:147
+#: src/js/controllers/modals/txpDetails.js:164
+#: src/js/controllers/preferencesDelete.js:24
+#: src/js/controllers/preferencesExternal.js:14
+#: www/views/preferencesDeleteWallet.html:11
+msgid "Warning!"
+msgstr "Varování!"
+
+#: www/views/modals/txp-details.html:47
+msgid "Warning: this transaction has unconfirmed inputs"
+msgstr "Varování: tahle transakce má nepotvrzené vstupy"
+
+#: src/js/controllers/onboarding/backupRequest.js:17
+msgid "Watch out!"
+msgstr "Dáveje pozor!"
+
+#: src/js/controllers/feedback/send.js:69
+msgid "We'd love to do better."
+msgstr "Rádi bychom to zlepšili."
+
+#: www/views/backup.html:28
+msgid "We'll confirm on the next screen."
+msgstr "Potvrdíme na příští obrazovce."
+
+#: src/js/controllers/feedback/send.js:77
+msgid "We're always looking for ways to improve {{appName}}."
+msgstr "Vždy hledáme způsoby ke zlepšení {{appName}}."
+
+#: src/js/controllers/feedback/send.js:83
+msgid "We're always looking for ways to improve {{appName}}. How could we improve your experience?"
+msgstr "Stále hledáme způsoby jak zlepšit {{appName}}. Jak byste zlepšili váš zážitek?"
+
+#: www/views/includes/incomingDataMenu.html:6
+msgid "Website"
+msgstr "Website"
+
+#: www/views/preferencesLanguage.html:16
+msgid "We’re always looking for translation contributions! You can make corrections or help to make this app available in your native language by joining our community on Crowdin."
+msgstr "Stále hledáme překladatele! Můžete dělat opravy nebo zpřístupnit tuto aplikaci ve vašem rodném jazyce připojením se ke komunitě na Crowdin."
+
+#: www/views/preferencesAlias.html:11
+msgid "What do you call this wallet?"
+msgstr "Jak nazvete tuto peněženku?"
+
+#: www/views/preferencesAlias.html:12
+msgid "When this wallet was created, it was called &ldquo;{{walletName}}&rdquo;. You can change the name displayed on this device below."
+msgstr "Když byla tato peněženka vytvořena, byla pojmenována &ldquo;{{walletName}}&rdquo;. Dole můžete změnit zobrazené jméno na tomto zařízení."
+
+#: www/views/onboarding/collectEmail.html:10
+msgid "Where would you like to receive email notifications about payments?"
+msgstr "Kam chcete dostávat emailové notifikace ohledně plateb?"
+
+#: www/views/addresses.html:19
+msgid "Why?"
+msgstr "Proč?"
+
+#: www/views/feedback/rateApp.html:10
+msgid "Would you be willing to rate {{appName}} in the app store?"
+msgstr "Ohodnotili byste {{appName}} v našem app storu?"
+
+#: www/views/onboarding/notifications.html:4
+msgid "Would you like to receive push notifications about payments?"
+msgstr "Přejete si obdržet push notifikace ohledně plateb?"
+
+#: src/js/controllers/import.js:270
+msgid "Wrong number of recovery words:"
+msgstr "Nesprávný počet slov obnovy:"
+
+#: src/js/services/bwcError.js:140
+msgid "Wrong spending password"
+msgstr "Špatné heslo pro platbu"
+
+#: www/views/modals/confirmation.html:7
+msgid "Yes"
+msgstr "Ano"
+
+#: src/js/controllers/onboarding/backupRequest.js:25
+msgid "Yes, skip"
+msgstr "Ano, přeskočit"
+
+#: src/js/controllers/onboarding/backupRequest.js:24
+msgid "You can create a backup later from your wallet settings."
+msgstr "Můžete později vytvořit zálohu z vašeho nastavení peněženky."
+
+#: src/js/controllers/preferencesLanguage.js:12
+msgid "You can make contributions by signing up on our Crowdin community translation website. We’re looking forward to hearing from you!"
+msgstr "Můžete přispět zaregistrováním se na naší překladatelské Crowdin community stránce. Těšíme se že se ozvete!"
+
+#: www/views/tab-scan.html:16
+msgid "You can scan particl addresses, payment requests, paper wallets, and more."
+msgstr "Můžete si oscanovat partil adresu, platební požadavek, papírovou peněženku a další."
+
+#: src/js/controllers/preferencesAbout.js:14
+msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
+msgstr "Můžete se podívat na poslední vývoj a příspěvky tohoto projektu návštěvou našeho projektu na GitHubu"
+
+#: www/views/onboarding/tour.html:19
+msgid "You can spend particl at millions of websites and stores worldwide."
+msgstr "Můžete platit paticlem na milionech webů a obchodů po celém světě"
+
+#: www/views/backup.html:12
+msgid "You can still export it from Advanced &gt; Export."
+msgstr "Můžete je stále exportovat z Pokročilé &gt; Export."
+
+#: www/views/onboarding/tour.html:32
+msgid "You can trade it for other currencies like US Dollars, Euros, or Pounds."
+msgstr "Můžete je obchodovat s dalšími měnami jako US dolary, Eura nebo Libry."
+
+#: www/views/onboarding/tour.html:46
+msgid "You control your particl."
+msgstr "Vy ovládáte vaše particl."
+
+#: www/views/modals/chooseFeeLevel.html:64
+msgid "You should not set a fee higher than {{maxFeeRecommended}} satoshis/byte."
+msgstr "Měli byste nastavit poplatky vyšší než {{maxFeeRecommended}} satoshis/byte"
+
+#: www/views/modals/bitpay-card-confirmation.html:5
+msgid "You will need to log back for fill in your BitPay Card."
+msgstr "Budete potřebovat prostředky pro doplnění vaší BitPay karty."
+
+#: www/views/preferencesNotifications.html:34
+msgid "You'll receive email notifications about payments sent and received from your wallets."
+msgstr "Obdržíte emailovou notifikaci o platbách poslaných a obdržených z vaší peněženky. "
+
+#: www/views/bitpayCard.html:50
+msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
+msgstr "Vaše BitPay Karta je připravena. Přidejte vklad na vaši kartu, abyste ji mohli používat v obchodech a ATM po celém světě"
+
+#: www/views/mercadoLibre.html:57
+#: www/views/mercadoLibreCards.html:6
+msgid "Your Gift Cards"
+msgstr "Vaše dárkové poukazy"
+
+#: www/views/includes/confirmBackupPopup.html:6
+msgid "Your particl wallet is backed up!"
+msgstr "Vaše particl peněženka je zazálohovaná!"
+
+#: www/views/tab-home.html:36
+msgid "Your particl wallet is ready!"
+msgstr "Vaše particl peněženka je připravena!"
+
+#: www/views/modals/chooseFeeLevel.html:61
+msgid "Your fee is lower than recommended."
+msgstr "Vaše poplatky jsou nižší než doporučené"
+
+#: www/views/feedback/send.html:42
+msgid "Your ideas, feedback, or comments"
+msgstr "Vaše nápady, feedback nebo komentáře"
+
+#: www/views/tab-create-shared.html:22
+msgid "Your name"
+msgstr "Vaše jméno"
+
+#: www/views/join.html:16
+msgid "Your nickname"
+msgstr "Vaše přezdívka"
+
+#: www/views/tab-export-file.html:11
+#: www/views/tab-import-file.html:20
+msgid "Your password"
+msgstr "Vaše heslo"
+
+#: www/views/buyAmazon.html:102
+msgid "Your purchase could not be completed"
+msgstr "Váš nákup nebyl dokonečen"
+
+#: www/views/buyAmazon.html:105
+msgid "Your purchase was added to the list of pending"
+msgstr "Váš obchod byl přidán na seznam čekajících"
+
+#: www/views/onboarding/backupRequest.html:10
+msgid "Your wallet is never saved to cloud storage or standard device backups."
+msgstr "Vaše peněženka nebyla nikdy zálohována na cloud nebo běžnou zálohou na zařízení "
+
+#: src/js/services/walletService.js:1031
+msgid "Your wallet key will be encrypted. The Spending Password cannot be recovered. Be sure to write it down."
+msgstr "Tvoje peněženka bude zašifrována. Heslo k platbám nemůže být obnoveno. Ujistěte se, že jste si ho zapsali."
+
+#: www/views/includes/walletSelector.html:23
+#: www/views/paperWallet.html:35
+#: www/views/tab-home.html:96
+#: www/views/tab-receive.html:74
+#: www/views/walletDetails.html:138
+#: www/views/walletDetails.html:58
+msgid "[Balance Hidden]"
+msgstr "[Skrytý Zůstatek]"
+
+#: src/js/controllers/bitpayCardIntro.js:11
+msgid "add your BitPay Visa card(s)"
+msgstr "přidejte svoji BitPay Visa kartu(y)"
+
+#: www/views/includes/available-balance.html:8
+msgid "locked by pending payments"
+msgstr "uzamčeno kvůli čekajícím platbám"
+
+#: src/js/services/profileService.js:389
+msgid "me"
+msgstr "já"
+
+#: www/views/addressbook.add.html:32
+msgid "name@example.com"
+msgstr "name@example.com"
+
+#: www/views/preferencesHistory.html:15
+msgid "preparing..."
+msgstr "příprava..."
+
+#: src/js/controllers/confirm.js:329
+#: src/js/controllers/modals/txpDetails.js:44
+msgid "to accept"
+msgstr "k potvrzení"
+
+#: src/js/controllers/confirm.js:327
+msgid "to pay"
+msgstr "k platbě"
+
+#: src/js/controllers/confirm.js:331
+#: src/js/controllers/modals/txpDetails.js:41
+msgid "to send"
+msgstr "k poslání"
+
+#: src/js/controllers/buyAmazon.js:238
+msgid "{{amountStr}} for Amazon.com Gift Card"
+msgstr "{{amountStr}} pro Amazon.com Gift Card"
+
+#: src/js/controllers/buyMercadoLibre.js:236
+msgid "{{amountStr}} for Mercado Livre Brazil Gift Card"
+msgstr "{{amountStr}} pro Mercado Livre Brazil Gift Card"
+
+#: www/views/preferencesBwsUrl.html:21
+msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
+msgstr "{{appName}} závisí na Bitcore Wallet Service (BWS) pro blockchain informace, síťové a Copay synchronizaci. Základní konfigurace odkazuje na https://bws.bitpay.com (veřejná BitPay BWS instance)."
+
+#: src/js/controllers/confirm.js:358
+msgid "{{fee}} will be deducted for particl networking fees."
+msgstr "{{fee}} bude odečteno od particl síťových poplatků."
+
+#: www/views/confirm.html:87
+msgid "{{tx.txp[wallet.id].feeRatePerStr}}  of the sending amount"
+msgstr "{{tx.txp[wallet.id].feeRatePerStr}}  z posílaného množství"
+
+#: www/views/walletDetails.html:211
+msgid "{{updatingTxHistoryProgress}} transactions downloaded"
+msgstr "{{updatingTxHistoryProgress}} transakcí stáhnuto"
+
+#: www/views/copayers.html:46
+#: www/views/includes/walletInfo.html:13
+msgid "{{wallet.m}}-of-{{wallet.n}}"
+msgstr "{{wallet.m}}-z-{{wallet.n}}"
